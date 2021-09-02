@@ -1,20 +1,26 @@
-## Olá! Eu sou Franklyn Roberto 👋
+# Olá! Eu sou Franklyn Roberto 👋
 
-
+ ## I'm a student of development 👾
 
 - 🔭 Hoje estou me formando na UFAL - Ciência da Computação
 - 🌱 Estudando Java
 - 👯 Contate-me no email: franklyn1998@gmail.com
 - 🤔 Meu número de whatsapp: +55 (82) 99991-5558 
-## Olá! Eu sou Franklyn Roberto 👋
+
  <div>
   <a href="https://github.com/hadesfranklyn">
+   
+   
+  ### 📊 My Stats
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   
+   
+   ### 👩‍💻 Top Languages
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
-  
+ ### 💻 Tech Stacks 
 <div style="display: inline_block"><br>
   <img align="center"  src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo--v2.png"/>
   <img align="center" alt="Frank-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,7 +36,7 @@
 
 </div>
   
-  ##
+  ## 📌 Social Networks
  
 <div> 
   
@@ -40,7 +46,7 @@
   
   <a href = "mailto:franklyn.silva@arapiraca.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/franklyn-roberto-da-silva-9b6a871a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+## 🐍 Snake Animation
 ![Snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake.svg)
  
 </div>
