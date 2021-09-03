@@ -4,7 +4,7 @@
 
 - 🔭 Hoje estou me formando na UFAL - Ciência da Computação
 - 🌱 Estudando Java
-- 👯 Contate-me no email: franklyn1998@gmail.com
+- 👯 Contate-me no email: franklyn.silva@arapiraca.ufal.br
 - 🤔 Meu número de whatsapp: +55 (82) 99991-5558 
 
  <div>
