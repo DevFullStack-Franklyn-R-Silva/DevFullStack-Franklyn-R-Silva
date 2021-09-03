@@ -30,7 +30,7 @@
   <img align="center" alt="Frank-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Frank-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Frank-yoda" height="200" width="200" src="https://user-images.githubusercontent.com/58437929/131928238-3a81c3d3-65b2-4a94-9148-94b1b265b93f.gif">
+  <img align="right" alt="Frank-gif" height="200" width="200" src="https://user-images.githubusercontent.com/58437929/131928238-3a81c3d3-65b2-4a94-9148-94b1b265b93f.gif">
   
  
 
@@ -48,6 +48,7 @@
   <a href="https://www.linkedin.com/in/franklyn-roberto-da-silva-9b6a871a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ## 🐍 Snake Animation
 ![Snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
 
