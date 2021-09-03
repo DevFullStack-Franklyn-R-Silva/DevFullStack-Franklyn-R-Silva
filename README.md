@@ -1,23 +1,31 @@
 # Olá! Eu sou Franklyn Roberto 👋
 
- ## I'm a student of development 👾
+ ## Eu sou um estudante de desenvolvimento 👾
 
 - 🔭 Hoje estou me formando na UFAL - Ciência da Computação
 - 🌱 Estudando Java
 - 👯 Contate-me no email: franklyn.silva@arapiraca.ufal.br
 - 🤔 Meu número de whatsapp: +55 (82) 99991-5558 
+- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn)
+
 
  <div>
   <a href="https://github.com/hadesfranklyn">
    
    
-  ### 📊 My Stats
+  ### 📊 Meu Status
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  
+  ### 👩‍💻 Top Languages
+ 
+ </div> 
    
    
-   ### 👩‍💻 Top Languages
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&layout=compact&langs_count=7&theme=dracula"/> -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula)
+
   
   
  ### 💻 Tech Stacks 
@@ -34,9 +42,10 @@
   
  
 
+
 </div>
   
-  ## 📌 Social Networks
+  ## 📌 Redes Sociais
  
 <div> 
   
