@@ -1,4 +1,4 @@
-# Olá! Eu sou Franklyn Roberto 👋
+# Olá! Eu sou Franklyn Roberto <img src="https://raw.githubusercontent.com/Peppoderosa/Peppoderosa/master/wave.gif" width="30px">
 
  ## Eu sou um estudante de desenvolvimento 👾
 
