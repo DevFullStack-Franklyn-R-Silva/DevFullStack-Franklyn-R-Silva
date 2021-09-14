@@ -2,7 +2,7 @@
 
  ## Eu sou um estudante de desenvolvimento 👾
 <p align="center">
-    <img align="center" alt="GIF" src="https://github.com/ojuliomiguel/ojuliomiguel/blob/main/assets/code.gif?raw=true" width="450" height="270" />
+    <img align="center" alt="GIF" src="https://github.com/hadesfranklyn/hadesfranklyn/blob/main/code.gif?raw=true" width="450" height="270" />
 </p>
 
 - 🔭 Hoje estou me formando na UFAL - Ciência da Computação
