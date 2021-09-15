@@ -29,7 +29,9 @@
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&layout=compact&langs_count=7&theme=dracula"/> -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula)
 
-  
+  ### 🏆 Troféus
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadesfranklyn&theme=dracula" alt="hadesfranklyn" /></a> </p>
+
   
  ### 💻 Tech Stacks 
 <div style="display: inline_block"><br>
@@ -44,7 +46,6 @@
   <img align="right" alt="Frank-gif" height="200" width="200" src="https://user-images.githubusercontent.com/58437929/131928238-3a81c3d3-65b2-4a94-9148-94b1b265b93f.gif">
   
  
-
 
 </div>
   
