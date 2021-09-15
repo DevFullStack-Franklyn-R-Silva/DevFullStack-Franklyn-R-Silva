@@ -15,19 +15,19 @@
  <div>
   <a href="https://github.com/hadesfranklyn">
    
-   
-  ### 📊 Meu Status
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
+  ### 📊 Meu Status &                                                                    👩‍💻 Top Languages
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula)
+
   
-  ### 👩‍💻 Top Languages
+ 
  
  </div> 
    
    
  
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&layout=compact&langs_count=7&theme=dracula"/> -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula)
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula) -->
 
   ### 🏆 Troféus
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadesfranklyn&theme=dracula" alt="hadesfranklyn" /></a> </p>
