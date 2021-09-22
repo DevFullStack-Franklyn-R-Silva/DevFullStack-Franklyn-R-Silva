@@ -1,6 +1,6 @@
 # Olá! Eu sou Franklyn Roberto !!! <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/ola.gif" width="30px">
 
- ## Eu sou um estudante de desenvolvimento 👾
+ ## <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="30px">Eu sou um estudante de desenvolvimento 👾
 <p align="center">
     <img align="center" alt="GIF" src="https://github.com/hadesfranklyn/hadesfranklyn/blob/main/code.gif?raw=true" width="450" height="270" />
 </p>
