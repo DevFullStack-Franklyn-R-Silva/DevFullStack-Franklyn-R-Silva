@@ -5,11 +5,11 @@
     <img align="center" alt="GIF" src="https://github.com/hadesfranklyn/hadesfranklyn/blob/main/code.gif?raw=true" width="450" height="270" />
 </p>
 
-- 🔭 Hoje estou me formando na UFAL - Ciência da Computação
-- 🌱 Estudando Java
-- 👯 Contate-me no email: franklyn.silva@arapiraca.ufal.br
-- 🤔 Meu número de whatsapp: +55 (82) 99991-5558 
-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn)
+#### - 🔭 Hoje estou me formando na UFAL 
+- Curso: Ciência da Computação 
+ - Campus: Arapiraca-AL Início: 2018 Previsão para Acabar: 2022
+#### - 🌱 Atualmente estou estudando Java
+#### - Total de visitas no meu git:  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn)
 
 
  <div>
