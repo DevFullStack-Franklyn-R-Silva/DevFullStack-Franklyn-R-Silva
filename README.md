@@ -6,17 +6,18 @@
 </p>
 
 #### - 🔭 Hoje estou me formando na UFAL 
-- Curso: Ciência da Computação 
- - Campus: Arapiraca-AL Início: 2018 Previsão para Acabar: 2022
+- 👨‍💻 Curso: Ciência da Computação 
+ - 🏫 Campus: Arapiraca-AL
+ - 🕐 Início: 2018 Previsão para Acabar: 2022
 #### - 🌱 Atualmente estou estudando Java
-#### - Total de visitas no meu git:  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn)
+#### - 👀 Total de visitas no meu git:  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn)
 
 
  <div>
   <a href="https://github.com/hadesfranklyn">
    
   
-  ### 📊 Meu Status &                                                                    👩‍💻 Top Languages
+  ### 📊 Meu Status &                                                                    👩‍💻 Top Linguagens
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula)
 
   
