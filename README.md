@@ -7,6 +7,7 @@
 
 
 <i> <strong> Atualmente estou desenvolvendo soluções fullStack com Spring-Boot no backend e Angular no frontend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike, andar de patins e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
+##
 #### - 🔭 Hoje estou me formando na UFAL 
 <i> <strong>
 - 👨‍💻 Curso: Ciência da Computação 
@@ -15,7 +16,7 @@
 
 <i> <strong>👀 Total de visitas no meu git:</strong> </i>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn)
 
-
+##
  <div>
   <a href="https://github.com/hadesfranklyn">
    
