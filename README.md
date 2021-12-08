@@ -1,16 +1,19 @@
 # <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/welcome.gif" width="80px"> Olá! Eu sou Franklyn Roberto !!! <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/ola.gif" width="30px">
 
  ## <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="30px">Eu sou um estudante de desenvolvimento 👾
-<p align="center">
+<!-- <p align="center">
     <img align="center" alt="GIF" src="https://github.com/hadesfranklyn/hadesfranklyn/blob/main/code.gif?raw=true" width="450" height="270" />
-</p>
+</p> -->
 
+
+<i> <strong> Atualmente estou desenvolvendo soluções fullStack com Spring-Boot no backend e Angular no frontend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike, andar de patins e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
 #### - 🔭 Hoje estou me formando na UFAL 
+<i> <strong>
 - 👨‍💻 Curso: Ciência da Computação 
- - 🏫 Campus: Arapiraca-AL
- - 🕐 Início: 2018 Previsão para Acabar: 2022
-#### - 🌱 Atualmente estou estudando Java
-#### - 👀 Total de visitas no meu git:  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn)
+- 🏫 Campus: Arapiraca-AL
+- 🕐 Início: 2018 Previsão para Acabar: 2022
+
+<i> <strong>👀 Total de visitas no meu git:</strong> </i>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn)
 
 
  <div>
