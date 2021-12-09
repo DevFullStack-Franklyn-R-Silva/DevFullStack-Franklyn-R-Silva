@@ -20,7 +20,7 @@
 
 <i> <strong>
 - <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/sapo_hackerman.gif" width="30px"> Ciência da Computação 
-- 🏫 Campus: Arapiraca-AL
+- <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/pensativo.gif" width="30px"> Campus: Arapiraca-AL
 - <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/ampulheta.gif" width="30px"> Início: 2018 Previsão para Acabar: 2022
 
  <div>  
