@@ -16,12 +16,12 @@
     
   </div>
   
-#### - 🔭 Hoje estou me formando na UFAL
+#### <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/telescope.gif" width="20px"> Hoje estou me formando na UFAL
 
 <i> <strong>
 - <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/sapo_hackerman.gif" width="30px"> Ciência da Computação 
 - 🏫 Campus: Arapiraca-AL
-- 🕐 Início: 2018 Previsão para Acabar: 2022
+- <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/ampulheta.gif" width="30px"> Início: 2018 Previsão para Acabar: 2022
 
  <div>  
   <h4 align="left"> Total de visitas no meu git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4>
