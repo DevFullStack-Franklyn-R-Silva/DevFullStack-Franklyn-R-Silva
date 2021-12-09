@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/welcome.gif" width="80px"> Olá! Eu sou Franklyn Roberto !!! <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/ola.gif" width="30px">
 
- ## <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="30px">Eu sou um estudante de desenvolvimento 👾
+ ## <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="30px">Eu sou um estudante de desenvolvimento <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/sonic.gif" width="30px">
 <!-- <p align="center">
     <img align="center" alt="GIF" src="https://github.com/hadesfranklyn/hadesfranklyn/blob/main/code.gif?raw=true" width="450" height="270" />
 </p> -->
@@ -19,7 +19,7 @@
 #### - 🔭 Hoje estou me formando na UFAL
 
 <i> <strong>
-- 👨‍💻 Curso: Ciência da Computação 
+- <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/sapo_hackerman.gif" width="30px"> Ciência da Computação 
 - 🏫 Campus: Arapiraca-AL
 - 🕐 Início: 2018 Previsão para Acabar: 2022
 
