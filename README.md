@@ -7,15 +7,28 @@
 
 
 <i> <strong> Atualmente estou desenvolvendo soluções fullStack com Spring-Boot no backend e Angular no frontend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike, andar de patins e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
+
+  
 ##
-#### - 🔭 Hoje estou me formando na UFAL 
+
+<div>
+  <img align="right" alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv">
+    
+  </div>
+  
+#### - 🔭 Hoje estou me formando na UFAL
+
 <i> <strong>
 - 👨‍💻 Curso: Ciência da Computação 
 - 🏫 Campus: Arapiraca-AL
 - 🕐 Início: 2018 Previsão para Acabar: 2022
 
-<i> <strong>👀 Total de visitas no meu git:</strong> </i>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn)
-
+ <div>  
+  <h4 align="left"> Total de visitas no meu git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4>
+  
+   </div>
+ 
+<!-- <i> <strong>👀 Total de visitas no meu git:</strong> </i>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn) -->
 ##
  <div>
   <a href="https://github.com/hadesfranklyn">
