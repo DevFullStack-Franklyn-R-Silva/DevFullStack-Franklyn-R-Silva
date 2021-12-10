@@ -53,22 +53,26 @@
  ### 💻 Tech Stacks 
 <div style="display: inline_block"><br>
   <img align="center"  alt="Frank-java"   src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/>
+ <img align="center" alt="Frank-SpringBoot" src="https://img.icons8.com/color/40/000000/spring-logo.png"/>
+ <img align="center" alt="Frank-eclipse"  src="https://img.icons8.com/nolan/40/java-eclipse.png"/>
+ <img align="center" alt="Frank-SceneBuilder" src="https://img.icons8.com/nolan/40/scene-builder.png"/>
   <img align="center" alt="Frank-Python"  src="https://img.icons8.com/color/40/000000/python--v1.png"/>
   <img align="center" alt="Frank-mySQL" src="https://img.icons8.com/fluency/40/000000/mysql-logo.png"/>
- 
+<img align="center" alt="Frank-PostMan"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/35/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
   <img align="center" alt="Frank-Js" src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>
 <!--  <img align="center" alt="Frank-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 <!--  <img align="center" alt="Frank-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Frank-HTML" src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
   <img align="center" alt="Frank-CSS"  src="https://img.icons8.com/color/40/000000/css3.png"/>
+ <img align="center" alt="Frank-Angular" src="https://img.icons8.com/color/40/000000/angularjs.png"/>
  <img align="center" alt="Frank-github" src="https://img.icons8.com/material-rounded/40/000000/github.png"/>
  <img align="center" alt="Frank-gitBash" src="https://img.icons8.com/color/40/000000/git.png"/>
-<img align="center" alt="Frank-eclipse"  src="https://img.icons8.com/nolan/40/java-eclipse.png"/>
+  <img align="center" alt="Frank-heroku" src="https://img.icons8.com/color/40/000000/heroku.png"/>
   <img align="center" alt="Frank-visualCode" src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/>
-   <img align="center" alt="Frank-windows" src="https://img.icons8.com/color/30/000000/windows-10.png"/>
+   <img align="center" alt="Frank-windows" src="https://img.icons8.com/color/40/000000/windows-10.png"/>
   <img align="right" alt="Frank-gif" height="200" width="200" src="https://user-images.githubusercontent.com/58437929/131928238-3a81c3d3-65b2-4a94-9148-94b1b265b93f.gif">
   <!-- site de icones https://icons8.com/ -->
- 
+
 
 </div>
   
