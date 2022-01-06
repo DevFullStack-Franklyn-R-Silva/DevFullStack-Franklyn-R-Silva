@@ -73,7 +73,6 @@
 <img align="right" alt="Frank-gif" height="200" width="200" src="https://user-images.githubusercontent.com/58437929/131928238-3a81c3d3-65b2-4a94-9148-94b1b265b93f.gif">
 <!-- site de icones https://icons8.com/ -->
 
-
 </div>
   
   ## 📌 Redes Sociais
