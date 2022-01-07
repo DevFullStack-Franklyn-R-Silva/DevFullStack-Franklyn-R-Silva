@@ -42,7 +42,6 @@
 </div> 
    
    
- 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&layout=compact&langs_count=7&theme=dracula"/> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula) -->
 
@@ -86,6 +85,5 @@
 </a> 
 ## 🐍 Snake Animation
 ![Snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake.svg)
-
 
 </div>
