@@ -72,7 +72,7 @@
 <!-- site de icones https://icons8.com/ -->
 
 </div>
-  
+
   ## 📌 Redes Sociais
  
 <div> 
