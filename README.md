@@ -7,7 +7,6 @@
     <img align="center" alt="GIF" src="https://github.com/hadesfranklyn/hadesfranklyn/blob/main/code.gif?raw=true" width="450" height="270" />
 </p> -->
 
-
 <i> <strong> Atualmente estou desenvolvendo soluções fullStack com Spring-Boot no backend e Angular no frontend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike, andar de patins e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
  
 ##
