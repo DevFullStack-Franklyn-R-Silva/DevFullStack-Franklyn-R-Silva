@@ -14,7 +14,7 @@
 
  ## <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="10px" height="35">About Me
 
-<i> <strong> Atualmente estou desenvolvendo soluções fullStack com Spring-Boot no backend e Angular no frontend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike, andar de patins e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
+<i> <strong> Atualmente estou desenvolvendo soluções fullStack com Spring-Boot no backend e React no frontend, gosto muito de aprender e estou sempre em busca de novos desafios! #neverstopplaying</strong> </i> 
  
 ##
 
