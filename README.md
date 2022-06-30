@@ -1,30 +1,36 @@
-# <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/welcome.gif" width="80px"> Olá! Eu sou Franklyn Roberto !!! 
-<!-- <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/ola.gif" width="30px"> -->
+# <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/welcome.gif" width="80px"> Olá! Eu sou Franklyn Roberto, um desenvolvedor full stack apaixonado pelo que faz! 
 
- ## <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="30px">Eu sou um estudante de desenvolvimento 
-<!--  <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/sonic.gif" width="30px"> -->
-<!-- <p align="center">
-    <img align="center" alt="GIF" src="https://github.com/hadesfranklyn/hadesfranklyn/blob/main/code.gif?raw=true" width="450" height="270" />
-</p> -->
+</div>
+
+  ## 📌 Redes Sociais
+ 
+<div> 
+  
+  <a href="https://www.instagram.com/franklyn_r.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/CTUjFnsz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:franklyn.silva@arapiraca.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/franklyn-roberto-da-silva-9b6a871a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+
+ ## <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="10px" height="35">About Me
 
 <i> <strong> Atualmente estou desenvolvendo soluções fullStack com Spring-Boot no backend e Angular no frontend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike, andar de patins e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
  
 ##
 
 <div>
-  <img align="right" alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv">
-    
-  </div>
+  <img align="right" alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> 
+</div>
   
-<!-- #### <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/telescope.gif" width="20px">  -->
+
 Hoje estou me formando na UFAL
 
 <i> <strong>
-<!-- - <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/sapo_hackerman.gif" width="30px">  -->
+
  Ciência da Computação 
-<!-- - <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/pensativo.gif" width="30px">  -->
+
  Campus: Arapiraca-AL
-<!-- - <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/ampulheta.gif" width="30px">  -->
+
  Início: 2018 Previsão para Acabar: 2022
 
 <div>  
@@ -36,7 +42,38 @@ Hoje estou me formando na UFAL
 ##
 <div>
   <a href="https://github.com/hadesfranklyn">
-   
+  
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MATERIALUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SPRINGBOOT](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<h3>☁ &nbsp;Cloud:</h3>
+
+![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![AMAZONAWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<h3>👩‍💻  &nbsp;IDE:</h3>
+
+![VISUALCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
   
   ### 📊 Meu Status &                                                                    👩‍💻 Top Linguagens
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula)
@@ -52,40 +89,7 @@ Hoje estou me formando na UFAL
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadesfranklyn&theme=dracula" alt="hadesfranklyn" /></a> </p>
 
   
-### 💻 Tech Stacks 
-<div style="display: inline_block"><br>
-<img align="center"  alt="Frank-java"   src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/>
-<img align="center" alt="Frank-SpringBoot" src="https://img.icons8.com/color/40/000000/spring-logo.png"/>
-<img align="center" alt="Frank-eclipse"  src="https://img.icons8.com/nolan/40/java-eclipse.png"/>
-<img align="center" alt="Frank-SceneBuilder" src="https://img.icons8.com/nolan/40/scene-builder.png"/>
-<img align="center" alt="Frank-Python"  src="https://img.icons8.com/color/40/000000/python--v1.png"/>
-<img align="center" alt="Frank-mySQL" src="https://img.icons8.com/fluency/40/000000/mysql-logo.png"/>
-<img align="center" alt="Frank-PostMan"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/35/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
-<img align="center" alt="Frank-Js" src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>
-<!--  <img align="center" alt="Frank-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-<!--  <img align="center" alt="Frank-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-<img align="center" alt="Frank-HTML" src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
-<img align="center" alt="Frank-CSS"  src="https://img.icons8.com/color/40/000000/css3.png"/>
-<img align="center" alt="Frank-Angular" src="https://img.icons8.com/color/40/000000/angularjs.png"/>
-<img align="center" alt="Frank-github" src="https://img.icons8.com/material-rounded/40/000000/github.png"/>
-<img align="center" alt="Frank-gitBash" src="https://img.icons8.com/color/40/000000/git.png"/>
-<img align="center" alt="Frank-heroku" src="https://img.icons8.com/color/40/000000/heroku.png"/>
-<img align="center" alt="Frank-visualCode" src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/>
-<img align="center" alt="Frank-windows" src="https://img.icons8.com/color/40/000000/windows-10.png"/>
-<img align="right" alt="Frank-gif" height="200" width="200" src="https://user-images.githubusercontent.com/58437929/131928238-3a81c3d3-65b2-4a94-9148-94b1b265b93f.gif">
-<!-- site de icones https://icons8.com/ -->
 
-</div>
-
-  ## 📌 Redes Sociais
- 
-<div> 
-  
-  <a href="https://www.instagram.com/franklyn_r.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/CTUjFnsz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:franklyn.silva@arapiraca.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/franklyn-roberto-da-silva-9b6a871a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
 ## 🐍 Snake Animation
 ![Snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake.svg)
 
