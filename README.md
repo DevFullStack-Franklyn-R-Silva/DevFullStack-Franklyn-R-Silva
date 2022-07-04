@@ -35,8 +35,7 @@ Hoje estou me formando na UFAL
 
 <div>  
   <h4 align="left"> Total de visitas no meu git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4>
-  
-   </div>
+</div>
  
 <!-- <i> <strong>👀 Total de visitas no meu git:</strong> </i>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn) -->
 ##
