@@ -85,7 +85,13 @@ Hoje estou me formando na UFAL
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula) -->
 
 ### 🏆 Troféus
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadesfranklyn&theme=dracula" alt="hadesfranklyn" /></a> </p>
+
+<p align="left"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=hadesfranklyn&theme=dracula" alt="hadesfranklyn" />
+</a> 
+</p>
+
 
   
 
