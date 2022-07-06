@@ -1,37 +1,37 @@
-# <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/welcome.gif" width="80px"> Olá! Eu sou Franklyn Roberto, um desenvolvedor full stack apaixonado pelo que faz! 
+# <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/welcome.gif" width="80px"> Olá! Eu sou Franklyn Roberto, um desenvolvedor full stack apaixonado pelo que faz!
 
 </div>
 
-  ## 📌 Redes Sociais
- 
+## 📌 Redes Sociais
+
 <div> 
-  
+  <a href = "https://api.whatsapp.com/send?phone=82999915558"><img src="https://img.shields.io/badge/Whatsapp-239120?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
   <a href="https://www.instagram.com/franklyn_r.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/CTUjFnsz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:franklyn.silva@arapiraca.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCSppGbotlcDQ17B-7Dw4Gog"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="mailto:franklyn.silva@arapiraca.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/franklyn-roberto-da-silva-9b6a871a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
+</a>
 
- ## <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="10px" height="35">About Me
+## <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="10px" height="35">About Me
 
-<i> <strong> Atualmente estou desenvolvendo soluções fullStack com Spring-Boot no backend e React no frontend, gosto muito de aprender e estou sempre em busca de novos desafios! #neverstopplaying</strong> </i> 
- 
+<i> <strong> Atualmente estou desenvolvendo soluções fullStack com Spring-Boot no backend e React no frontend, gosto muito de aprender e estou sempre em busca de novos desafios! #neverstopplaying</strong> </i>
+
 ##
 
 <div>
   <img align="right" alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> 
 </div>
-  
 
 Hoje estou me formando na UFAL
 
 <i> <strong>
 
- Ciência da Computação 
+Ciência da Computação
 
- Campus: Arapiraca-AL
+Campus: Arapiraca-AL
 
- Início: 2018 Previsão para Acabar: 2022
+Início: 2018 Previsão para Acabar: 2022
 
 <div>  
   <h4 align="left"> Total de visitas no meu git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4>
@@ -73,11 +73,11 @@ Hoje estou me formando na UFAL
 
 ![VISUALCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-  
-  ### 📊 Meu Status &                                                                    👩‍💻 Top Linguagens
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula)
 
-  
+### 📊 Meu Status & 👩‍💻 Top Linguagens
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula)
+
 </div> 
    
    
@@ -92,10 +92,8 @@ Hoje estou me formando na UFAL
 </a> 
 </p>
 
-
-  
-
 ## 🐍 Snake Animation
+
 ![Snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake.svg)
 
 </div>
