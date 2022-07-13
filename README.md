@@ -52,7 +52,8 @@ Início: 2018 Previsão para Acabar: 2022
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MATERIALUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![VITE](https://img.shields.io/badge/Vite-35495E?style=for-the-badge&logo=vite&logoColor=4FC08D)
+![NEXTJS](https://img.shields.io/badge/Next.js-00000F?style=for-the-badge&logo=next.js&logoColor=white)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
