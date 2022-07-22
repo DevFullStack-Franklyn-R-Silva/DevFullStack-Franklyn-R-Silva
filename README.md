@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/franklyn-roberto-da-silva-9b6a871a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
-## <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="10px" height="35">About Me
+## <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35">About Me
 
 <i> <strong> Atualmente estou desenvolvendo soluções fullStack com Spring-Boot no backend e React no frontend, gosto muito de aprender e estou sempre em busca de novos desafios! #neverstopplaying</strong> </i>
 
