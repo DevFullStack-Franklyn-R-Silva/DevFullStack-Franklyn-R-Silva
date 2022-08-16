@@ -98,3 +98,4 @@ Início: 2018 Previsão para Acabar: 2022
 ![Snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
