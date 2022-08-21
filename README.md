@@ -1,41 +1,35 @@
-# <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/welcome.gif" width="80px"> Olá! Eu sou Franklyn Roberto, um desenvolvedor full stack apaixonado pelo que faz!
+# <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/welcome.gif" width="80px"> Olá! Eu sou Franklyn Roberto, um desenvolvedor full stack apaixonado pelo que faz!
 
-</div>
+![MARIO](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-## 📌 Redes Sociais
 
-<div> 
-  <a href = "https://api.whatsapp.com/send?phone=82999915558"><img src="https://img.shields.io/badge/Whatsapp-239120?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
-  <a href="https://www.instagram.com/franklyn_r.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/CTUjFnsz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/channel/UCSppGbotlcDQ17B-7Dw4Gog"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="mailto:franklyn.silva@arapiraca.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/franklyn-roberto-da-silva-9b6a871a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+<h4 align="center">
+    <div>
+        <a href="https://api.whatsapp.com/send?phone=82999915558"><img src="https://img.shields.io/badge/Whatsapp-239120?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+        <a href="https://www.instagram.com/franklyn_r.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+        <a href="https://discord.gg/CTUjFnsz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+        <a href="https://www.youtube.com/channel/UCSppGbotlcDQ17B-7Dw4Gog"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+        <a href="mailto:franklyn.silva@arapiraca.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/franklyn-roberto-da-silva-9b6a871a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        </a>
+</h4>
 
-## <img src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35">About Me
+## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35">About Me
 
-<i> <strong> Atualmente estou desenvolvendo soluções fullStack com Spring-Boot no backend e React no frontend, gosto muito de aprender e estou sempre em busca de novos desafios! #neverstopplaying</strong> </i>
+```
+Estudante de Ciência da Computação pela UFAL - Universidade Federal de Alagoas, Campus Arapiraca.
+Sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstopplaying
+```
 
 ##
+<h4><img align="center"  alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> Total de visitas no meu git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4></li>
+   
 
-<div>
-  <img align="right" alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> 
-</div>
 
-Hoje estou me formando na UFAL
 
-<i> <strong>
 
-Ciência da Computação
 
-Campus: Arapiraca-AL
-
-Início: 2018 Previsão para Acabar: 2022
-
-<div>  
-  <h4 align="left"> Total de visitas no meu git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4>
-</div>
  
 <!-- <i> <strong>👀 Total de visitas no meu git:</strong> </i>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn) -->
 ##
