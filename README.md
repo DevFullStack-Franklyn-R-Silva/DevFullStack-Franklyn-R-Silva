@@ -45,37 +45,36 @@ Início: 2018 Previsão para Acabar: 2022
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end ⚙️ Back-end 🎛 banco de dados:</h3>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MATERIALUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![VITE](https://img.shields.io/badge/Vite-35495E?style=for-the-badge&logo=vite&logoColor=4FC08D)
+![HTML](https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=5ed3f3)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-6e41a4?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MATERIALUI](https://custom-icon-badges.herokuapp.com/badge/Material--UI-F7F7F7?style=for-the-badge&logo=material-ui-1&logoColor=007BF7)
+![VITE](https://img.shields.io/badge/Vite-770ba8?style=for-the-badge&logo=vite&logoColor=f7c01c)
 ![NEXTJS](https://img.shields.io/badge/Next.js-00000F?style=for-the-badge&logo=next.js&logoColor=white)
-![ANDROID](https://img.shields.io/badge/Android-6DB33F?style=for-the-badge&logo=android&logoColor=white)
-![KOTLIN](https://img.shields.io/badge/Kotlin-563D7C?style=for-the-badge&logo=kotlin&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=icons8-java&logoColor=white)
-
-![SPRINGBOOT](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![ANDROID](https://img.shields.io/badge/Android-4c7394?style=for-the-badge&logo=android&logoColor=A4C639)
+![KOTLIN](https://img.shields.io/badge/Kotlin-533BA7?style=for-the-badge&logo=kotlin&logoColor=E96F0F)
+![JAVA](https://custom-icon-badges.herokuapp.com/badge/Java-C63842?style=for-the-badge&logo=icons8-javaf&logoColor=black)
+![SPRINGBOOT](https://img.shields.io/badge/Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=white)
+![PYTHON](https://custom-icon-badges.herokuapp.com/badge/Python-EFEFEF?style=for-the-badge&logo=python-5)
+![NODE](https://img.shields.io/badge/Node.js-404137?style=for-the-badge&logo=node.js&logoColor=8CC84B)
+![MYSQL](https://custom-icon-badges.herokuapp.com/badge/MySQL-CE8B2C?style=for-the-badge&logo=mysql-6)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 <!-- <h3>⚙️ &nbsp;Back-end e banco de dados:</h3> -->
 
 
 <h3>☁ &nbsp;Cloud:</h3>
 
-![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![AMAZONAWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![NETLIFY](https://img.shields.io/badge/Netlify-25C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![HEROKU](https://img.shields.io/badge/Heroku-6762A5?style=for-the-badge&logo=heroku&logoColor=white)
+![AMAZONAWS](https://custom-icon-badges.herokuapp.com/badge/Amazon_AWS-231F20?style=for-the-badge&logo=amazon-icon-1)
 
 <h3>👩‍💻  &nbsp;IDE:</h3>
 
-![VISUALCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VISUALCODE](https://img.shields.io/badge/Visual_Studio_Code-3C99D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![ECLIPSE](https://custom-icon-badges.herokuapp.com/badge/Eclipse-18132d?style=for-the-badge&logo=eclipse-11)
 ![ANDROID_STUDIO](https://img.shields.io/badge/Android_studio-7EB048?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ### 📊 Meu Status & 👩‍💻 Top Linguagens
