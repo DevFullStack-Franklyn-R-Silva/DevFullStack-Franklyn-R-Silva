@@ -39,6 +39,8 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end ⚙️ Back-end 🎛 banco de dados:</h3>
 
+<div align="center">
+
 ![HTML](https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
@@ -56,6 +58,8 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 ![NODE](https://img.shields.io/badge/Node.js-404137?style=for-the-badge&logo=node.js&logoColor=8CC84B)
 ![MYSQL](https://custom-icon-badges.herokuapp.com/badge/MySQL-CE8B2C?style=for-the-badge&logo=mysql-6)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
 <!-- <h3>⚙️ &nbsp;Back-end e banco de dados:</h3> -->
 
 
@@ -83,11 +87,9 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 
 ### 🏆 Troféus
 
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=hadesfranklyn&theme=dracula" alt="hadesfranklyn" />
-</a> 
-</p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hadesfranklyn&theme=dracula&row=1&no-frame=true)](https://github.com/hadesfranklyn/github-profile-trophy)
 
 ## 🐍 Snake Animation
 
