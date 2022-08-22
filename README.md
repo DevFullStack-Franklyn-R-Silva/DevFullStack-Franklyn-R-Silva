@@ -37,7 +37,7 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
   <a href="https://github.com/hadesfranklyn">
   
 <h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end ⚙️ Back-end 🎛 banco de dados:</h3>
+<h3>💻 &nbsp;Front-end ⚙️ Back-end 🎲 banco de dados:</h3>
 
 <div align="center">
 
