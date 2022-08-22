@@ -80,15 +80,13 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hadesfranklyn&repo=github-readme-stats&theme=dracula)](https://github.com/hadesfranklyn/github-readme-stats)
-   
+
+[![hadesfranklyn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&langs_count=7&theme=dracula"/> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&theme=dracula) -->
 
 ### 🏆 Troféus
-
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hadesfranklyn&theme=dracula&row=1&no-frame=true)](https://github.com/hadesfranklyn/github-profile-trophy)
 
