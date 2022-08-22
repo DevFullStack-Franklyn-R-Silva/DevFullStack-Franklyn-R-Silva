@@ -2,8 +2,8 @@
 
 ![MARIO](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-
 <h4 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Seja+Bem-Vindo!;Entusiasta+de+código+aberto;Prazer+em+conhecê-lo...&center=true"></a>
     <div>
         <a href="https://api.whatsapp.com/send?phone=82999915558"><img src="https://img.shields.io/badge/Whatsapp-239120?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
         <a href="https://www.instagram.com/franklyn_r.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -14,7 +14,7 @@
         </a>
 </h4>
 
-## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35">About Me
+## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35">Sobre min
 
 ```
 Estudante de Ciência da Computação pela UFAL - Universidade Federal de Alagoas, Campus Arapiraca.
@@ -23,12 +23,8 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 ```
 
 ##
-<h4><img align="center"  alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> Total de visitas no meu git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4></li>
+<h4><img align="center"  alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> Total de visitas no meu git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4>
    
-
-
-
-
 
  
 <!-- <i> <strong>👀 Total de visitas no meu git:</strong> </i>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn) -->
@@ -36,7 +32,7 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 <div>
   <a href="https://github.com/hadesfranklyn">
   
-<h2> 🛠 &nbsp;Tech Stack</h2>
+## 🛠 Minhas Tecnologias
 <h3>💻 &nbsp;Front-end ⚙️ Back-end 🎲 banco de dados:</h3>
 
 <div align="center">
@@ -78,10 +74,13 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 
 ### 📊 Meu Status & 👩‍💻 Top Linguagens
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula)
+<a href="https://github.com/hadesfranklyn/hadesfranklyn"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hadesfranklyn&theme=dracula"/><img  src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<a href="https://github.com/hadesfranklyn/hadesfranklyn"><img alt="hadesfranklyn's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula" width=37%/>[![hadesfranklyn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![hadesfranklyn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&langs_count=7&theme=dracula"/> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&theme=dracula) -->
@@ -90,7 +89,7 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hadesfranklyn&theme=dracula&row=1&no-frame=true)](https://github.com/hadesfranklyn/github-profile-trophy)
 
-## 🐍 Snake Animation
+## 🐍 Cobrinha
 
 ![Snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake.svg)
 
