@@ -58,6 +58,7 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 ![NODE](https://img.shields.io/badge/Node.js-404137?style=for-the-badge&logo=node.js&logoColor=8CC84B)
 ![MYSQL](https://custom-icon-badges.herokuapp.com/badge/MySQL-CE8B2C?style=for-the-badge&logo=mysql-6)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GIT](https://custom-icon-badges.herokuapp.com/badge/git-black?style=for-the-badge&logo=git-icon)
 
 </div>
 <!-- <h3>⚙️ &nbsp;Back-end e banco de dados:</h3> -->
