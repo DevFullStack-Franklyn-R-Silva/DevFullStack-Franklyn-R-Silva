@@ -5,7 +5,8 @@
 <h4 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Seja+Bem-Vindo!;Entusiasta+de+código+aberto;Prazer+em+conhecê-lo...&center=true"></a>
     <div>
-        <a href="https://api.whatsapp.com/send?phone=82999915558"><img src="https://img.shields.io/badge/Whatsapp-239120?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+        <a href="https://api.whatsapp.com/send?phone=82999915558"><img src="https://img.shields.io/badge/Whatsapp-1FA413?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+        <a href="https://www.facebook.com/FranklynRobertoDaSilva"><img src="https://img.shields.io/badge/facebook-3982e4?style=for-the-badge&logo=facebook&logoColor=white" /></a>
         <a href="https://www.instagram.com/franklyn_r.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href="https://discord.gg/CTUjFnsz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
         <a href="https://www.youtube.com/channel/UCSppGbotlcDQ17B-7Dw4Gog"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -46,12 +47,12 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 ![MATERIALUI](https://custom-icon-badges.herokuapp.com/badge/Material--UI-F7F7F7?style=for-the-badge&logo=material-ui-1&logoColor=007BF7)
 ![VITE](https://img.shields.io/badge/Vite-770ba8?style=for-the-badge&logo=vite&logoColor=f7c01c)
 ![NEXTJS](https://img.shields.io/badge/Next.js-00000F?style=for-the-badge&logo=next.js&logoColor=white)
+![NODE](https://img.shields.io/badge/Node.js-404137?style=for-the-badge&logo=node.js&logoColor=8CC84B)
 ![ANDROID](https://img.shields.io/badge/Android-4c7394?style=for-the-badge&logo=android&logoColor=A4C639)
 ![KOTLIN](https://img.shields.io/badge/Kotlin-533BA7?style=for-the-badge&logo=kotlin&logoColor=E96F0F)
 ![JAVA](https://custom-icon-badges.herokuapp.com/badge/Java-C63842?style=for-the-badge&logo=icons8-javaf&logoColor=black)
 ![SPRINGBOOT](https://img.shields.io/badge/Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=white)
 ![PYTHON](https://custom-icon-badges.herokuapp.com/badge/Python-EFEFEF?style=for-the-badge&logo=python-5)
-![NODE](https://img.shields.io/badge/Node.js-404137?style=for-the-badge&logo=node.js&logoColor=8CC84B)
 ![MYSQL](https://custom-icon-badges.herokuapp.com/badge/MySQL-CE8B2C?style=for-the-badge&logo=mysql-6)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GIT](https://custom-icon-badges.herokuapp.com/badge/git-black?style=for-the-badge&logo=git-icon)
