@@ -42,6 +42,9 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 ![CSS](https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/Kotlin-533BA7?style=for-the-badge&logo=kotlin&logoColor=E96F0F)
+![JAVA](https://custom-icon-badges.herokuapp.com/badge/Java-C63842?style=for-the-badge&logo=icons8-javaf&logoColor=black)
+![PYTHON](https://custom-icon-badges.herokuapp.com/badge/Python-EFEFEF?style=for-the-badge&logo=python-5)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=5ed3f3)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-6e41a4?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MATERIALUI](https://custom-icon-badges.herokuapp.com/badge/Material--UI-F7F7F7?style=for-the-badge&logo=material-ui-1&logoColor=007BF7)
@@ -49,13 +52,11 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 ![NEXTJS](https://img.shields.io/badge/Next.js-00000F?style=for-the-badge&logo=next.js&logoColor=white)
 ![NODE](https://img.shields.io/badge/Node.js-404137?style=for-the-badge&logo=node.js&logoColor=8CC84B)
 ![ANDROID](https://img.shields.io/badge/Android-4c7394?style=for-the-badge&logo=android&logoColor=A4C639)
-![KOTLIN](https://img.shields.io/badge/Kotlin-533BA7?style=for-the-badge&logo=kotlin&logoColor=E96F0F)
-![JAVA](https://custom-icon-badges.herokuapp.com/badge/Java-C63842?style=for-the-badge&logo=icons8-javaf&logoColor=black)
 ![SPRINGBOOT](https://img.shields.io/badge/Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=white)
-![PYTHON](https://custom-icon-badges.herokuapp.com/badge/Python-EFEFEF?style=for-the-badge&logo=python-5)
 ![MYSQL](https://custom-icon-badges.herokuapp.com/badge/MySQL-CE8B2C?style=for-the-badge&logo=mysql-6)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GIT](https://custom-icon-badges.herokuapp.com/badge/git-black?style=for-the-badge&logo=git-icon)
+![GITHUB](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 
 </div>
 <!-- <h3>⚙️ &nbsp;Back-end e banco de dados:</h3> -->
