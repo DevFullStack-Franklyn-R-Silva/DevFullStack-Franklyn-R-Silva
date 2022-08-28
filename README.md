@@ -81,7 +81,6 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 <a  href="https://github.com/hadesfranklyn/hadesfranklyn"><img alt="hadesfranklyn's language used" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula"/><a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="hadesfranklyn's language used" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dracula"/>
 
 
-
 </div>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&langs_count=7&theme=dracula"/> -->
