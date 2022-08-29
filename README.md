@@ -34,7 +34,7 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
   <a href="https://github.com/hadesfranklyn">
   
 ## 🛠 Minhas Tecnologias
-<h3>💻 &nbsp;Front-end ⚙️ Back-end 🎲 banco de dados:</h3>
+<h3>💻 &nbsp;Front-end ⚙️ Back-end 🎲 banco de dados ☁ Cloud:</h3>
 
 <div align="center">
 
@@ -57,16 +57,11 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GIT](https://custom-icon-badges.herokuapp.com/badge/git-black?style=for-the-badge&logo=git-icon)
 ![GITHUB](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
-
-</div>
-<!-- <h3>⚙️ &nbsp;Back-end e banco de dados:</h3> -->
-
-
-<h3>☁ &nbsp;Cloud:</h3>
-
 ![NETLIFY](https://img.shields.io/badge/Netlify-25C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/Heroku-6762A5?style=for-the-badge&logo=heroku&logoColor=white)
 ![AMAZONAWS](https://custom-icon-badges.herokuapp.com/badge/Amazon_AWS-231F20?style=for-the-badge&logo=amazon-icon-1)
+
+</div>
 
 <h3>👩‍💻  &nbsp;IDE:</h3>
 
