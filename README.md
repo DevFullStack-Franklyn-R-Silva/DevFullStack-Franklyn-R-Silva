@@ -13,6 +13,9 @@
         <a href="mailto:franklyn.silva@arapiraca.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/franklyn-roberto-da-silva-9b6a871a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
         </a>
+        <a href="https://www.leagueofgraphs.com/pt/summoner/br/IlI+Axel+IlI" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank">
+        </a>
+    </div>
 </h4>
 
 ## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35">Sobre min
@@ -24,17 +27,20 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 ```
 
 ##
-<h4><img align="center"  alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> Total de visitas no meu git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4>
-   
 
- 
+<h4><img align="center"  alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> Total de visitas no meu git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4>
+
 <!-- <i> <strong>👀 Total de visitas no meu git:</strong> </i>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn) -->
+
 ##
+
 <div>
   <a href="https://github.com/hadesfranklyn">
-  
+</div>
+
 ## 🛠 Minhas Tecnologias
-<h3>💻 &nbsp;Front-end ⚙️ Back-end 🎲 banco de dados ☁ Cloud:</h3>
+
+<h3>💻 &nbsp;Front-end ⚙️ Back-end 🎲 banco de dados ☁ Cloud 👩‍💻 IDE:</h3>
 
 <div align="center">
 
@@ -60,14 +66,11 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 ![NETLIFY](https://img.shields.io/badge/Netlify-25C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/Heroku-6762A5?style=for-the-badge&logo=heroku&logoColor=white)
 ![AMAZONAWS](https://custom-icon-badges.herokuapp.com/badge/Amazon_AWS-231F20?style=for-the-badge&logo=amazon-icon-1)
-
-</div>
-
-<h3>👩‍💻  &nbsp;IDE:</h3>
-
 ![VISUALCODE](https://img.shields.io/badge/Visual_Studio_Code-3C99D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![ECLIPSE](https://custom-icon-badges.herokuapp.com/badge/Eclipse-18132d?style=for-the-badge&logo=eclipse-11)
 ![ANDROID_STUDIO](https://img.shields.io/badge/Android_studio-7EB048?style=for-the-badge&logo=android%20studio&logoColor=white)
+</div>
+
 
 ### 📊 Meu Status & 👩‍💻 Top Linguagens
 
@@ -76,7 +79,6 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 <a  href="https://github.com/hadesfranklyn/hadesfranklyn"><img alt="hadesfranklyn's language used" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&layout=compact&theme=dracula"/><a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="hadesfranklyn's language used" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dracula"/>
 
 
-</div>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&langs_count=7&theme=dracula"/> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&theme=dracula) -->
@@ -88,6 +90,4 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 ## 🐍 Cobrinha
 
 ![Snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
