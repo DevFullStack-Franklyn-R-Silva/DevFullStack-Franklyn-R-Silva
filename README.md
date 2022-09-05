@@ -76,11 +76,11 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 
 <a href="https://github.com/hadesfranklyn/hadesfranklyn"><img alt="Streak Stats"  width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=hadesfranklyn&theme=dracula"/><img  width=50%  src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<a  href="https://github.com/hadesfranklyn/hadesfranklyn"><img alt="hadesfranklyn's language used" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&theme=dracula&layout=compact"/><a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="hadesfranklyn's language used" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dracula"/>
+<a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="hadesfranklyn's language used" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dracula"/><a  href="https://github.com/hadesfranklyn/hadesfranklyn"><img alt="hadesfranklyn's language used"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&theme=dracula"/>
 
 
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&langs_count=7&theme=dracula"/> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&langs_count=7&theme=dracula"/>  &layout=compact width=50%-->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&theme=dracula) -->
 
 ### 🏆 Troféus
