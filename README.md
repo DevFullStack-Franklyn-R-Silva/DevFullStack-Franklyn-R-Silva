@@ -40,8 +40,6 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 
 ## 🛠 Minhas Tecnologias
 
-<h3>💻 &nbsp;Front-end ⚙️ Back-end 🎲 banco de dados ☁ Cloud 👩‍💻 IDE:</h3>
-
 <h3>💻 Front-end</h3>
 
 ![HTML](https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
@@ -68,11 +66,11 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 ![MYSQL](https://custom-icon-badges.herokuapp.com/badge/MySQL-CE8B2C?style=for-the-badge&logo=mysql-6)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3> 📱 Mobile 👩‍💻 </h3>
+<h3> 📱 Mobile</h3>
 
 ![ANDROID](https://img.shields.io/badge/Android-4c7394?style=for-the-badge&logo=android&logoColor=A4C639)
 
-<h3> ☁ Cloud 👩‍💻 </h3>
+<h3> ☁ Cloud</h3>
 
 ![GIT](https://custom-icon-badges.herokuapp.com/badge/git-black?style=for-the-badge&logo=git-icon)
 ![GITHUB](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
