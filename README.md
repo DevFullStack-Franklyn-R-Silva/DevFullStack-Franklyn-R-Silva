@@ -22,7 +22,14 @@
 
 ```
 Estudante de Ciência da Computação pela UFAL - Universidade Federal de Alagoas, Campus Arapiraca.
-Sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+
+Acredito que a busca por conhecimento e melhoria continua devem fazer parte do nosso dia-a-dia, 
+para transformar em profissionais e principalmente pessoas melhores. 
+
+Tenho imenso prazer em trabalhar em equipe, acredito que cada pessoa contribui com suas próprias experiências, 
+e o trabalho fica em melhor harmonia trabalhando em conjunto. Tenho convicção que a tecnologia quando bem 
+aplicada pode e irá transformar o mundo para melhor.
+
 Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstopplaying
 ```
 
