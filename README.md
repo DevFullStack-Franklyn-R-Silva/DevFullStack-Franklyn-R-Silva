@@ -66,7 +66,6 @@ Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstoppla
 ![PYTHON](https://custom-icon-badges.herokuapp.com/badge/Python-EFEFEF?style=for-the-badge&logo=python-5)
 ![NODE](https://img.shields.io/badge/Node.js-404137?style=for-the-badge&logo=node.js&logoColor=8CC84B)
 
-
 <h3>🎲 banco de dados</h3>
 
 ![SQLite](https://img.shields.io/badge/SQLite-6CB6E4?style=for-the-badge&logo=sqlite&logoColor=white)
