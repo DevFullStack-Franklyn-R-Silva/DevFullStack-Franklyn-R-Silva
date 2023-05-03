@@ -21,16 +21,15 @@
 ## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35">Sobre min
 
 ```
-Estudante de Ciência da Computação pela UFAL - Universidade Federal de Alagoas, Campus Arapiraca.
+Sou um estudante de Ciência da Computação pela UFAL - Universidade Federal de Alagoas, Campus Arapiraca, e acredito que a busca 
+constante por conhecimento e melhoria deve ser parte integrante de nossas vidas, a fim de nos tornarmos profissionais e, 
+acima de tudo, indivíduos melhores.
 
-Acredito que a busca por conhecimento e melhoria continua devem fazer parte do nosso dia-a-dia, 
-para transformar em profissionais e principalmente pessoas melhores. 
+Sinto grande prazer em trabalhar em equipe, pois acredito que cada pessoa traz suas próprias experiências e habilidades, 
+contribuindo assim para um trabalho mais harmonioso e bem-sucedido. Tenho a convicção de que a tecnologia, quando bem aplicada, 
+pode e irá transformar o mundo para melhor.
 
-Tenho imenso prazer em trabalhar em equipe, acredito que cada pessoa contribui com suas próprias experiências, 
-e o trabalho fica em melhor harmonia trabalhando em conjunto. Tenho convicção que a tecnologia quando bem 
-aplicada pode e irá transformar o mundo para melhor.
-
-Gosto muito de aprender e estou sempre em busca de novos desafios! #neverstopplaying
+Sou um entusiasta do aprendizado e estou sempre em busca de novos desafios. #neverstopplaying
 ```
 
 ##
