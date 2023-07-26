@@ -105,7 +105,6 @@ I am a learning enthusiast and am always looking for new challenges. #neverstopp
 
 
 
-
 ### 📊 My Status & 👩‍💻 Top Languages
 
 <a href="https://github.com/hadesfranklyn/hadesfranklyn"><img alt="Streak Stats"  width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=hadesfranklyn&theme=dracula"/><img  width=50%  src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
