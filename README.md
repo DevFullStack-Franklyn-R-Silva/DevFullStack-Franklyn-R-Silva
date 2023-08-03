@@ -120,5 +120,5 @@ I am a learning enthusiast and am always looking for new challenges. #neverstopp
 [![trophy](https://github-profile-trophy.vercel.app/?username=hadesfranklyn&theme=dracula&row=1&no-frame=true)](https://github.com/hadesfranklyn/github-profile-trophy)
 
 ## 🐍 Snake
+![snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake2.svg)
 
-![Snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake.svg)
