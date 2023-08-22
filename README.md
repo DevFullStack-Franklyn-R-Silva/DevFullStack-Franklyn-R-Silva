@@ -44,65 +44,25 @@ I am a learning enthusiast and am always looking for new challenges. #neverstopp
   <a href="https://github.com/hadesfranklyn">
 </div>
 
-## 🛠 Frameworks
-
-<!-- <h3>💻 Front-end</h3> -->
-
-![HTML](https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
-![NODE](https://img.shields.io/badge/Node.js-404137?style=for-the-badge&logo=node.js&logoColor=8CC84B)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=5ed3f3)
-![NEXTJS](https://img.shields.io/badge/Next.js-00000F?style=for-the-badge&logo=next.js&logoColor=white)
-![JAVA](https://custom-icon-badges.herokuapp.com/badge/Java-C63842?style=for-the-badge&logo=icons8-javaf&logoColor=black)
-![MYSQL](https://custom-icon-badges.herokuapp.com/badge/MySQL-CE8B2C?style=for-the-badge&logo=mysql-6)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GIT](https://custom-icon-badges.herokuapp.com/badge/git-black?style=for-the-badge&logo=git-icon)
-![GITHUB](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
-<!-- ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-6e41a4?style=for-the-badge&logo=bootstrap&logoColor=white) -->
-<!-- ![MATERIALUI](https://custom-icon-badges.herokuapp.com/badge/Material--UI-F7F7F7?style=for-the-badge&logo=material-ui-1&logoColor=007BF7) -->
-<!-- ![VITE](https://img.shields.io/badge/Vite-770ba8?style=for-the-badge&logo=vite&logoColor=f7c01c) -->
-<!-- <h3>⚙️ Back-end</h3> -->
 
 
-<!-- ![KOTLIN](https://img.shields.io/badge/Kotlin-533BA7?style=for-the-badge&logo=kotlin&logoColor=E96F0F) -->
+## 👩‍💻Languages I Know:
 
-<!-- ![PYTHON](https://custom-icon-badges.herokuapp.com/badge/Python-EFEFEF?style=for-the-badge&logo=python-5) -->
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,eclipse,github,git,mongodb,mysql,css,html,js,ts,express,nextjs,electron,react,nodejs,java,dart,flutter,"> </a> </p>
 
-
-<!-- <h3>🎲 banco de dados</h3> -->
-
-<!-- ![SQLite](https://img.shields.io/badge/SQLite-6CB6E4?style=for-the-badge&logo=sqlite&logoColor=white) -->
-
-
-<!-- <h3> 📱 Mobile</h3> -->
-
-<!-- ![ANDROID](https://img.shields.io/badge/Android-4c7394?style=for-the-badge&logo=android&logoColor=A4C639) -->
-
-<!-- <h3> ☁ Cloud</h3> -->
+## 📊My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
 
 
-<!-- ![NETLIFY](https://img.shields.io/badge/Netlify-25C7B7?style=for-the-badge&logo=netlify&logoColor=white) -->
-<!-- ![HEROKU](https://img.shields.io/badge/Heroku-6762A5?style=for-the-badge&logo=heroku&logoColor=white) -->
-<!-- ![AMAZONAWS](https://custom-icon-badges.herokuapp.com/badge/Amazon_AWS-231F20?style=for-the-badge&logo=amazon-icon-1) -->
+## 💻Activity On GitHub:
 
-<h3>👩‍💻 IDE</h3>
-
-![VISUALCODE](https://img.shields.io/badge/Visual_Studio_Code-3C99D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![ECLIPSE](https://custom-icon-badges.herokuapp.com/badge/Eclipse-18132d?style=for-the-badge&logo=eclipse-11)
-![SPRINGBOOT](https://img.shields.io/badge/Spring_Tool_Suite_4-6AAD3D?style=for-the-badge&logo=spring&logoColor=white)
-<!-- ![ANDROID_STUDIO](https://img.shields.io/badge/Android_studio-7EB048?style=for-the-badge&logo=android%20studio&logoColor=white) -->
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hadesfranklyn&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
 ### 📊 My Status & 👩‍💻 Top Languages
 
