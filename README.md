@@ -15,10 +15,13 @@
         </a>
         <a href="https://www.leagueofgraphs.com/pt/summoner/br/IlI+Axel+IlI" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank">
         </a>
+        <a href="https://github.com/hadesfranklyn?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hadesfranklyn?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/hadesfranklyn?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
     </div>
 </h4>
 
-## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35">Sobre min
+## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35"/>About me
 
 ```
 I am a Computer Science student at UFAL - Federal University of Alagoas, Campus Arapiraca, and I believe that the search
@@ -44,17 +47,15 @@ I am a learning enthusiast and am always looking for new challenges. #neverstopp
   <a href="https://github.com/hadesfranklyn">
 </div>
 
-
-
 ## 👩‍💻Languages I Know:
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,eclipse,github,git,mongodb,mysql,css,html,js,ts,express,nextjs,electron,react,nodejs,java,dart,flutter,"> </a> </p>
+<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=vscode,eclipse,github,git,mongodb,mysql,css,html,js,ts,express,nextjs,electron,vue,react,nodejs,java,dart,flutter,"> </a> </p>
 
 ## 📊My Stats:
+
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
-
 
 ## 💻Activity On GitHub:
 
@@ -70,13 +71,10 @@ I am a learning enthusiast and am always looking for new challenges. #neverstopp
 <a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="hadesfranklyn's language used" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dark&layout=compact"/>
 </p>
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&langs_count=7&theme=dracula"/>  &layout=compact width=50%-->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesfranklyn&hide=TeX&theme=dracula) -->
-
-### 🏆 Trophies
+## 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hadesfranklyn&theme=dracula&row=1&no-frame=true)](https://github.com/hadesfranklyn/github-profile-trophy)
 
 ## 🐍 Snake
-![snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake2.svg)
 
+![snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-snake-dark.svg)
