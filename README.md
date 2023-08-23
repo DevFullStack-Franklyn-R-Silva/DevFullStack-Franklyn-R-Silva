@@ -49,7 +49,7 @@ I am a learning enthusiast and am always looking for new challenges. #neverstopp
 
 ## 👩‍💻Languages I Know:
 
-<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=vscode,eclipse,github,git,mongodb,mysql,css,html,js,ts,express,nextjs,electron,vue,react,nodejs,java,dart,flutter"> </a> </p>
+<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=vscode,eclipse,github,git,mongodb,mysql,css,html,js,ts,express,nextjs,electron,vue,bootstrap,react,nodejs,java,dart,flutter"> </a> </p>
 
 ## 📊My Stats:
 
