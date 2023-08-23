@@ -36,9 +36,9 @@ I am a learning enthusiast and am always looking for new challenges. #neverstopp
 ```
 
 ##
-
+<div align="center">
 <h4><img align="center"  alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> Total hits on my git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4>
-
+</div>
 <!-- <i> <strong>👀 Total de visitas no meu git:</strong> </i>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn) -->
 
 ##
@@ -49,7 +49,7 @@ I am a learning enthusiast and am always looking for new challenges. #neverstopp
 
 ## 👩‍💻Languages I Know:
 
-<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=vscode,eclipse,github,git,mongodb,mysql,css,html,js,ts,express,nextjs,electron,vue,react,nodejs,java,dart,flutter,"> </a> </p>
+<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=vscode,eclipse,github,git,mongodb,mysql,css,html,js,ts,express,nextjs,electron,vue,react,nodejs,java,dart,flutter"> </a> </p>
 
 ## 📊My Stats:
 
