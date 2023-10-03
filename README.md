@@ -5,15 +5,15 @@
 <h4 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome!;Open+source+enthusiast;Nice+to+meet+you...&center=true"></a>
     <div>
-        <a href="https://api.whatsapp.com/send?phone=82999915558"><img src="https://img.shields.io/badge/Whatsapp-1FA413?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-        <a href="https://www.facebook.com/FranklynRobertoDaSilva"><img src="https://img.shields.io/badge/facebook-3982e4?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-        <a href="https://www.instagram.com/franklyn_r.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-        <a href="https://discord.gg/CTUjFnsz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-        <a href="https://www.youtube.com/channel/UCSppGbotlcDQ17B-7Dw4Gog"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-        <a href="mailto:franklyn.silva@arapiraca.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-        <a href="https://www.linkedin.com/in/franklyn-roberto-da-silva-9b6a871a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        <a href="https://api.whatsapp.com/send?phone=82999915558"><img src="https://img.shields.io/badge/Whatsapp-1FA413?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp"/></a>
+        <a href="https://www.facebook.com/FranklynRobertoDaSilva"><img src="https://img.shields.io/badge/facebook-3982e4?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" /></a>
+        <a href="https://www.instagram.com/franklyn_r.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="Instagram"/></a>
+        <a href="https://discord.gg/CTUjFnsz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" title="Discord"/></a>
+        <a href="https://www.youtube.com/channel/UCSppGbotlcDQ17B-7Dw4Gog"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube" /></a>
+        <a href="mailto:franklyn.silva@arapiraca.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  title="Gmail"/></a>
+        <a href="https://www.linkedin.com/in/franklyn-roberto-da-silva-9b6a871a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="Linkedin"/>
         </a>
-        <a href="https://www.leagueofgraphs.com/pt/summoner/br/IlI+Axel+IlI" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank">
+        <a href="https://www.leagueofgraphs.com/pt/summoner/br/IlI+Axel+IlI" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank" title="League of Legends"/>
         </a>
         <a href="https://github.com/hadesfranklyn?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hadesfranklyn?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
