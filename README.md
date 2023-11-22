@@ -80,8 +80,8 @@ I am a learning enthusiast and am always looking for new challenges. #neverstopp
 
 </div>
 
-<!--
+
 ## 🐍 Snake
 
-![snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-snake-dark.svg)
--->
+![snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake2.svg)
+
