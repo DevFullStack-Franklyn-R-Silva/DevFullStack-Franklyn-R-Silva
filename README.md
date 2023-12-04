@@ -50,7 +50,7 @@ I am a learning enthusiast and am always looking for new challenges. #neverstopp
 
 ## 👩‍💻Languages I Know:
 
-<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=vscode,eclipse,spring,androidstudio,postman,github,git,mongodb,mysql,firebase,ts,js,css,html,express,nextjs,electron,vue,bootstrap,react,nodejs,java,dart,flutter"> </a> </p>
+<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=vscode,eclipse,spring,androidstudio,postman,github,git,mongodb,mysql,ts,js,css,html,express,nextjs,electron,bootstrap,react,nodejs,java,"> </a> </p>
 
 ## 📊My Stats:
 
@@ -81,7 +81,7 @@ I am a learning enthusiast and am always looking for new challenges. #neverstopp
 </div>
 
 
-## 🐍 Snake
+<!--## 🐍 Snake
 
-![snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/hadesfranklyn/hadesfranklyn/blob/output/github-contribution-grid-snake2.svg) -->
 
