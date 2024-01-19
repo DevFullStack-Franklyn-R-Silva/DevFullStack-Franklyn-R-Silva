@@ -24,9 +24,13 @@
 ## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35"/>About me
 
 ```
-I am a graduate in Computer Science from UFAL - Federal University of Alagoas, Campus Arapiraca, and I believe that the constant pursuit of knowledge and improvement must be an integral part of our lives to become professionals and, above all, better individuals.
+I am a graduate in Computer Science from UFAL - Federal University of Alagoas, Campus Arapiraca,
+and I believe that the constant pursuit of knowledge and improvement must be an integral
+part of our lives to become professionals and, above all, better individuals.
 
-I take great pleasure in working as a team, as I believe that each person brings their own experiences and skills, thereby contributing to a more harmonious and successful work. I am convinced that technology, when well applied, can and will change the world for the better.
+I take great pleasure in working as a team, as I believe that each person brings their own
+experiences and skills, thereby contributing to a more harmonious and successful work.
+I am convinced that technology, when well applied, can and will change the world for the better.
 
 I remain an enthusiast of learning, always seeking new challenges. #neverstopplaying
 ```
