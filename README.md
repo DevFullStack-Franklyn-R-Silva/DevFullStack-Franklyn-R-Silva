@@ -1,4 +1,4 @@
-# <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/welcome.gif" width="80px"> Hello! I'm Franklyn Roberto, a full stack developer passionate about what he does!
+# <img align="center" src="https://raw.githubusercontent.com/DevFullStack-Franklyn-R-Silva/DevFullStack-Franklyn-R-Silva/master/welcome.gif" width="80px"> Hello! I'm Franklyn Roberto, a full stack developer passionate about what he does!
               
 ![MARIO](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
                      
@@ -68,7 +68,7 @@ I remain an enthusiast of learning, always seeking new challenges. #neverstoppla
 ## ⏱️Wakatime
 
 <p align="center">
-<a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="hadesfranklyn's language used" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dark&layout=compact"/>
+<a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="DevFullStack-Franklyn-R-Silva's language used" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dark&layout=compact"/>
 </p>
 
 ## 🏆 Trophies
