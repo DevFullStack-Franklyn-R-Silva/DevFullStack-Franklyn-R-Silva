@@ -11,7 +11,7 @@
         <a href="https://discord.gg/CTUjFnsz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" title="Discord"/></a>
         <a href="https://www.youtube.com/channel/UCSppGbotlcDQ17B-7Dw4Gog"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube" /></a>
         <a href="mailto:franklyn.silva@arapiraca.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  title="Gmail"/></a>
-        <a href="https://www.linkedin.com/in/franklyn-roberto-da-silva-9b6a871a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="Linkedin"/>
+        <a href="https://www.linkedin.com/in/franklyn-roberto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="Linkedin"/>
         </a>
         <a href="https://www.leagueofgraphs.com/pt/summoner/br/IlI+Axel+IlI" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank" title="League of Legends"/>
         </a>
@@ -44,38 +44,38 @@ I remain an enthusiast of learning, always seeking new challenges. #neverstoppla
 ##
 
 <div>
-  <a href="https://github.com/hadesfranklyn">
+  <a href="https://github.com/DevFullStack-Franklyn-R-Silva">
 </div>
 
 ## 👩‍💻Languages I Know:
 
-<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=vscode,eclipse,spring,androidstudio,postman,github,git,mongodb,mysql,ts,js,css,html,express,nextjs,electron,bootstrap,react,nodejs,java,"> </a> </p>
+<p align="left"> <a href="https://github.com/DevFullStack-Franklyn-R-Silva"><img src="https://skillicons.dev/icons?i=vscode,eclipse,spring,androidstudio,postman,github,git,mongodb,mysql,ts,js,css,html,express,nextjs,electron,bootstrap,react,nodejs,java,"> </a> </p>
 
 ## 📊My Stats:
 
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=hadesfranklyn&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevFullStack-Franklyn-R-Silva&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
 ## 💻Activity On GitHub:
 
 <p align="center">
   <a href="https://github.com/Thinkright20">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hadesfranklyn&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevFullStack-Franklyn-R-Silva&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 
 ## ⏱️Wakatime
 
 <p align="center">
-<a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="DevFullStack-Franklyn-R-Silva's language used" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dark&layout=compact"/>
+<a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="DevFullStack-Franklyn-R-Silva's language used" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=DevFullStack-Franklyn-R-Silva&theme=dark&layout=compact"/>
 </p>
 
 ## 🏆 Trophies
  
 <div align="center"> 
      
-[![trophy](https://github-profile-trophy.vercel.app/?username=hadesfranklyn&theme=dracula&row=1&no-frame=true)](https://github.com/hadesfranklyn/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevFullStack-Franklyn-R-Silva&theme=dracula&row=1&no-frame=true)](https://github.com/hadesfranklyn/github-profile-trophy)
 
 </div>
 
