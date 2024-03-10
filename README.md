@@ -68,7 +68,7 @@ I remain an enthusiast of learning, always seeking new challenges. #neverstoppla
 ## ⏱️Wakatime
 
 <p align="center">
-<a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="DevFullStack-Franklyn-R-Silva's language used" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=DevFullStack-Franklyn-R-Silva&theme=dark&layout=compact"/>
+<a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="DevFullStack-Franklyn-R-Silva's language used" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dark&layout=compact"/>
 </p>
 
 ## 🏆 Trophies
