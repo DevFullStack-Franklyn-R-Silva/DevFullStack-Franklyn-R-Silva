@@ -7,7 +7,7 @@
     <div>
         <a href="https://api.whatsapp.com/send?phone=82999915558" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-1FA413?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp"/></a>
         <a href="https://www.facebook.com/FranklynRobertoDaSilva" target="_blank"><img src="https://img.shields.io/badge/facebook-3982e4?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" /></a>
-        <a href="https://www.instagram.com/franklyn_r.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="Instagram"/></a>
+        <a href="https://www.instagram.com/dev_franklyn_r.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="Instagram"/></a>
         <a href="https://discord.gg/CTUjFnsz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" title="Discord"/></a>
         <a href="https://www.youtube.com/channel/UCSppGbotlcDQ17B-7Dw4Gog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube" /></a>
         <a href="mailto:franklyn.silva@arapiraca.ufal.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  title="Gmail"/></a>
