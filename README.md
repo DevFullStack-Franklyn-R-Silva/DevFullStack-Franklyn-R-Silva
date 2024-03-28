@@ -17,7 +17,7 @@
         </a>
         <a href="https://github.com/hadesfranklyn?tab=repositories&sort=stargazers" target="_blank">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DevFullStack-Franklyn-R-Silva?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/thinkright20" target="_blank"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DevFullStack-Franklyn-R-Silva?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+   <a href="https://github.com/DevFullStack-Franklyn-R-Silva" target="_blank"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DevFullStack-Franklyn-R-Silva?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
     </div>
 </h4>
  
