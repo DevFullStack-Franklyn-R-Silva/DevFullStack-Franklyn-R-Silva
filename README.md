@@ -13,11 +13,11 @@
         <a href="mailto:franklyn.silva@arapiraca.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  title="Gmail"/></a>
         <a href="https://www.linkedin.com/in/franklyn-roberto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="Linkedin"/>
         </a>
-        <a href="https://www.leagueofgraphs.com/pt/summoner/br/IlI+Axel+IlI" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank" title="League of Legends"/>
+        <a href="https://www.leagueofgraphs.com/pt/summoner/br/Ceifador+Sombrio-Abyss" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank" title="League of Legends"/>
         </a>
         <a href="https://github.com/hadesfranklyn?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hadesfranklyn?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/hadesfranklyn?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DevFullStack-Franklyn-R-Silva?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DevFullStack-Franklyn-R-Silva?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
     </div>
 </h4>
  
