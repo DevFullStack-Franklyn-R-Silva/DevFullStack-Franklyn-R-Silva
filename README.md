@@ -2,7 +2,7 @@
                  
 ![MARIO](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) 
                                         
-<h4 align="center">                      
+<h4 align="center">                       
 <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome!;Open+source+enthusiast;Nice+to+meet+you...&center=true"></a>
     <div>
         <a href="https://api.whatsapp.com/send?phone=82999915558" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-1FA413?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp"/></a>
