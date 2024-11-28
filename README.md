@@ -49,6 +49,7 @@ I remain an enthusiast of learning, always seeking new challenges. #neverstoppla
 
 ## 👩‍💻Languages I Know:
 <!--https://skillicons.dev -->
+<a href="https://wakatime.com/@268de5b9-4dbd-4873-9ede-a165e5745754"><img src="https://wakatime.com/badge/user/268de5b9-4dbd-4873-9ede-a165e5745754.svg" alt="Total time coded since Aug 22 2022" /></a>
 <p align="left"> <a href="https://github.com/DevFullStack-Franklyn-R-Silva"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,spring,androidstudio,postman,github,git,mongodb,mysql,ts,js,html,css,tailwindcss,express,nextjs,electron,bootstrap,react,nodejs,java,docker,postgresql,dart,flutter,jest,oracle"> </a> </p>
 
 ## 📊My Stats:
