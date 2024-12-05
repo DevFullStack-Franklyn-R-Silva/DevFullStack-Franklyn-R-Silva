@@ -58,14 +58,6 @@ I remain an enthusiast of learning, always seeking new challenges. #neverstoppla
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevFullStack-Franklyn-R-Silva&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
-## 💻Activity On GitHub:
-
-<p align="center">
-  <a href="https://github.com/Thinkright20">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevFullStack-Franklyn-R-Silva&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
-
 ## ⏱️Wakatime
 
 <p align="center">
