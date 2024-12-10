@@ -43,6 +43,9 @@ I remain an enthusiast of learning, always seeking new challenges. #neverstoppla
 
 ##
 
+## 💻Activity On GitHub:
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevFullStack-Franklyn-R-Silva&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <div>
   <a href="https://github.com/DevFullStack-Franklyn-R-Silva">
 </div>
