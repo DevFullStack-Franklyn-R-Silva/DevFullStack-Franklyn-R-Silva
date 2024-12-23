@@ -43,9 +43,6 @@ I remain an enthusiast of learning, always seeking new challenges. #neverstoppla
 
 ##
 
-## 💻Activity On GitHub:
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevFullStack-Franklyn-R-Silva&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <div>
   <a href="https://github.com/DevFullStack-Franklyn-R-Silva">
 </div>
@@ -54,6 +51,15 @@ I remain an enthusiast of learning, always seeking new challenges. #neverstoppla
 <!--https://skillicons.dev -->
 <a href="https://wakatime.com/@268de5b9-4dbd-4873-9ede-a165e5745754"><img src="https://wakatime.com/badge/user/268de5b9-4dbd-4873-9ede-a165e5745754.svg" alt="Total time coded since Aug 22 2022" /></a>
 <p align="left"> <a href="https://github.com/DevFullStack-Franklyn-R-Silva"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,spring,androidstudio,postman,github,git,mongodb,mysql,ts,js,html,css,tailwindcss,express,nextjs,electron,bootstrap,react,nodejs,java,docker,postgresql,dart,flutter,jest,oracle"> </a> </p>
+
+
+## 💻Activity On GitHub:
+
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevFullStack-Franklyn-R-Silva&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
 ## 📊My Stats:
 
