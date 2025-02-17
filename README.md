@@ -8,7 +8,7 @@
 
                                                                                    
 <h4 align="center">                                               
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome!;Open+source+enthusiast;Nice+to+meet+you...&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Bem-vindo!;Entusiasta+de+código+aberto;Prazer+em+te+conhecer...&center=true"></a>
     <div>
         <a href="https://api.whatsapp.com/send?phone=82999915558" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-1FA413?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp"/></a>
         <a href="https://www.facebook.com/FranklynRobertoDaSilva" target="_blank"><img src="https://img.shields.io/badge/facebook-3982e4?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" /></a>
