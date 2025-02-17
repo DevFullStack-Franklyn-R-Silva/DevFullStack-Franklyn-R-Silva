@@ -83,7 +83,7 @@
  
 <div align="center"> 
      
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevFullStack-Franklyn-R-Silva&theme=dracula&row=1&no-frame=true)](https://github.com/hadesfranklyn/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevFullStack-Franklyn-R-Silva&theme=tokyonight&row=1&no-frame=true)](https://github.com/hadesfranklyn/github-profile-trophy)
 
 </div>
 
