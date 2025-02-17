@@ -56,14 +56,23 @@
 <a href="https://wakatime.com/@268de5b9-4dbd-4873-9ede-a165e5745754"><img src="https://wakatime.com/badge/user/268de5b9-4dbd-4873-9ede-a165e5745754.svg" alt="Total time coded since Aug 22 2022" /></a>
 <p align="left"> <a href="https://github.com/DevFullStack-Franklyn-R-Silva"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,spring,androidstudio,postman,github,git,mongodb,mysql,ts,js,html,css,tailwindcss,express,nextjs,electron,bootstrap,react,nodejs,java,docker,postgresql,dart,flutter,jest,oracle"> </a> </p>
 
+💼 Minha trajetória:
+- Atualmente trabalho como Desenvolvedor FullStack.
+- Desenvolvi projetos impactantes, incluindo:
+  - Soluções logísticas: Desenvolvimento de sistemas de endereçamento logístico e impressão de etiquetas/gôndolas, utilizando Flutter.
+  - Sistemas de e-commerce: Criação de plataformas de consulta de preços e carrinho de compras, também em Flutter.
+  - APIs e integrações: Manutenção e criação de rotas em APIs REST, com integrações utilizando Node.js/TypeScript.
+  - Aplicativos corporativos e de consumo: Desenvolvimento de soluções para o mercado corporativo e final, utilizando Flutter, React e Electron.
+  - Automação de processos: Implementação de envio automático de arquivos para o Dropbox via FTP.
 
-## 💻Activity On GitHub:
+<!-- ## 💻Activity On GitHub:
 
 <p align="center">
   <a href="https://github.com/Thinkright20">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevFullStack-Franklyn-R-Silva&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
+-->
 
 ## 📊My Stats:
 
