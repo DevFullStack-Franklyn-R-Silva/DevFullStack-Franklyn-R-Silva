@@ -26,15 +26,12 @@
     </div>
 </h4> 
   
-## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35"/>About me
+## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35"/>Sobre mim
 
-```
-Sou formado em Ciência da Computação pela UFAL - Universidade Federal de Alagoas, Campus Arapiraca, e acredito que a busca constante por conhecimento e aprimoramento deve ser parte integrante de nossas vidas para nos tornarmos profissionais e, acima de tudo, indivíduos melhores.
+- Sou formado em Ciência da Computação pela UFAL - Universidade Federal de Alagoas, Campus Arapiraca, e acredito que a busca constante por conhecimento e aprimoramento deve ser parte integrante de nossas vidas para nos tornarmos profissionais e, acima de tudo, indivíduos melhores.
+- Tenho grande prazer em trabalhar em equipe, pois acredito que cada pessoa traz suas próprias experiências e habilidades, contribuindo assim para um trabalho mais harmonioso e bem-sucedido. Estou convencido de que a tecnologia, quando bem aplicada, pode e vai mudar o mundo para melhor.
+- Continuo sendo um entusiasta do aprendizado, sempre buscando novos desafios.
 
-Tenho grande prazer em trabalhar em equipe, pois acredito que cada pessoa traz suas próprias experiências e habilidades, contribuindo assim para um trabalho mais harmonioso e bem-sucedido. Estou convencido de que a tecnologia, quando bem aplicada, pode e vai mudar o mundo para melhor.
-
-Continuo sendo um entusiasta do aprendizado, sempre buscando novos desafios.
-```
 
 ##
 <div align="center">
