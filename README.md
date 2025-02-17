@@ -33,13 +33,6 @@
 - Continuo sendo um entusiasta do aprendizado, sempre buscando novos desafios.
 
 
-##
-<div align="center">
-<h4><img align="center"  alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> Total hits on my git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4>
-</div>
-<!-- <i> <strong>👀 Total de visitas no meu git:</strong> </i>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn) -->
-
-##
 
 <div>
   <a href="https://github.com/DevFullStack-Franklyn-R-Silva">
@@ -74,19 +67,19 @@
 </p>
 -->
 
-## 📊My Stats:
+## 📊Meu Status:
 
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevFullStack-Franklyn-R-Silva&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
+    <a href="https://github.com/anuraghazra/github-readme-stats&layout=compact">
+      <img alt="DevFullStack-Franklyn-R-Silva's language used" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dark&layout=compact"/>
+    </a>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevFullStack-Franklyn-R-Silva&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+  </div>
 </p>
 
-## ⏱️Wakatime
 
-<p align="center">
-<a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="DevFullStack-Franklyn-R-Silva's language used" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dark&layout=compact"/>
-</p>
-
-## 🏆 Trophies
+## 🏆 Troféus
  
 <div align="center"> 
      
@@ -94,7 +87,13 @@
 
 </div>
 
+##
+<div align="center">
+<h4><img align="center"  alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> Total hits on my git:  <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg"></h4>
+</div>
+<!-- <i> <strong>👀 Total de visitas no meu git:</strong> </i>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadesfranklyn.hadesfranklyn) -->
 
+##
 
 <!--## 🐍 Snake
 
