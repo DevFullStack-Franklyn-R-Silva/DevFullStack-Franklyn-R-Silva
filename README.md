@@ -1,6 +1,11 @@
-# <img align="center" src="https://raw.githubusercontent.com/DevFullStack-Franklyn-R-Silva/DevFullStack-Franklyn-R-Silva/master/welcome.gif" width="80px"> Hello! I'm Franklyn Roberto, a full stack developer passionate about what he does!
+# <img align="center" src="https://raw.githubusercontent.com/DevFullStack-Franklyn-R-Silva/DevFullStack-Franklyn-R-Silva/master/welcome.gif" width="80px">Olá! Eu sou Franklyn Roberto, um desenvolvedor full stack apaixonado pelo que faço!
                                                                           
-![MARIO](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)    
+<!-- ![MARIO](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)--> 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="500" />
+</p>
+
+
                                                                                    
 <h4 align="center">                                               
 <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome!;Open+source+enthusiast;Nice+to+meet+you...&center=true"></a>
@@ -24,15 +29,11 @@
 ## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35"/>About me
 
 ```
-I am a graduate in Computer Science from UFAL - Federal University of Alagoas, Campus Arapiraca,
-and I believe that the constant pursuit of knowledge and improvement must be an integral
-part of our lives to become professionals and, above all, better individuals.
+Sou formado em Ciência da Computação pela UFAL - Universidade Federal de Alagoas, Campus Arapiraca, e acredito que a busca constante por conhecimento e aprimoramento deve ser parte integrante de nossas vidas para nos tornarmos profissionais e, acima de tudo, indivíduos melhores.
 
-I take great pleasure in working as a team, as I believe that each person brings their own
-experiences and skills, thereby contributing to a more harmonious and successful work.
-I am convinced that technology, when well applied, can and will change the world for the better.
+Tenho grande prazer em trabalhar em equipe, pois acredito que cada pessoa traz suas próprias experiências e habilidades, contribuindo assim para um trabalho mais harmonioso e bem-sucedido. Estou convencido de que a tecnologia, quando bem aplicada, pode e vai mudar o mundo para melhor.
 
-I remain an enthusiast of learning, always seeking new challenges. #neverstopplaying
+Continuo sendo um entusiasta do aprendizado, sempre buscando novos desafios.
 ```
 
 ##
@@ -47,7 +48,13 @@ I remain an enthusiast of learning, always seeking new challenges. #neverstoppla
   <a href="https://github.com/DevFullStack-Franklyn-R-Silva">
 </div>
 
-## 👩‍💻Languages I Know:
+## 💻 Habilidades técnicas:
+- Linguagens de programação: Dart, Typescript, Javascript e Java.
+- Frameworks e bibliotecas: Flutter, React, Next, Electron, Express, Node, SpringBoot, Docker.
+- Techs para desenvolvimento web: HTML, CSS3, TailwindCSS, e outros.
+- Familiaridade com testes.
+- Database: Oracle, postgresql e outros.
+
 <!--https://skillicons.dev -->
 <a href="https://wakatime.com/@268de5b9-4dbd-4873-9ede-a165e5745754"><img src="https://wakatime.com/badge/user/268de5b9-4dbd-4873-9ede-a165e5745754.svg" alt="Total time coded since Aug 22 2022" /></a>
 <p align="left"> <a href="https://github.com/DevFullStack-Franklyn-R-Silva"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,spring,androidstudio,postman,github,git,mongodb,mysql,ts,js,html,css,tailwindcss,express,nextjs,electron,bootstrap,react,nodejs,java,docker,postgresql,dart,flutter,jest,oracle"> </a> </p>
