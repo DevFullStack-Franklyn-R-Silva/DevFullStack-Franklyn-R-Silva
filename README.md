@@ -72,9 +72,9 @@
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
     <a href="https://github.com/anuraghazra/github-readme-stats&layout=compact">
-      <img alt="DevFullStack-Franklyn-R-Silva's language used" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=dark&layout=compact"/>
+      <img alt="DevFullStack-Franklyn-R-Silva's language used" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hadesfranklyn&theme=radical&layout=compact"/>
     </a>
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevFullStack-Franklyn-R-Silva&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevFullStack-Franklyn-R-Silva&hide_border=true&show_icons=true&count_private=true&theme=tokyonight&bg_color=151515">
   </div>
 </p>
 
