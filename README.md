@@ -1,4 +1,4 @@
-<!--
+<!-- 
   README.md atualizado com melhorias e ajustes.
   Apenas adicionei seções e organizei o conteúdo, sem remover nenhum elemento original.
 -->
