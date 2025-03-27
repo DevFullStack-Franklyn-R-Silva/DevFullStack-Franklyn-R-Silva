@@ -1,8 +1,3 @@
-<!-- 
-  README.md atualizado com melhorias e ajustes.
-  Apenas adicionei seções e organizei o conteúdo, sem remover nenhum elemento original.  
---> 
-
 # <img align="center" src="https://raw.githubusercontent.com/DevFullStack-Franklyn-R-Silva/DevFullStack-Franklyn-R-Silva/master/welcome.gif" width="80px"> Olá! Eu sou Franklyn Roberto, um desenvolvedor full stack apaixonado pelo que faço!
 
 <!-- GIF de Boas-vindas -->
