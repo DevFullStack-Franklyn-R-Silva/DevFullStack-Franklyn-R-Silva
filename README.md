@@ -96,7 +96,7 @@
 
 ---
 
-## 🚀 Projetos Relevantes
+## 📽️ Projetos Relevantes
 
 - **[Projeto Gerador de QR Code](https://github.com/DevFullStack-Franklyn-R-Silva/Gerador-de-QRCode-com-ReactJS)**  
   *Gera QR Code a partir de texto ou URL, permitindo salvar o código como PNG.*  
@@ -174,9 +174,22 @@
 
 ## 🎓 Certificações & Cursos
 
-- **Bacharelado em Ciência da Computação** - UFAL, Campus Arapiraca.  
-- **Tecnologias:** Flutter, Oracle, Node.js, Electron, React, TypeScript, JavaScript, HTML, CSS, Spring Boot, Git, GitHub.  
-- **Cursos Complementares:** Fullstack Spring Boot + ReactJS, SQL & Bancos de Dados, Desenvolvimento Web, AWS, Java/Python, Arquitetura & Metodologias Ágeis.
+- **Bacharelado em Ciência da Computação**  
+  *Universidade Federal de Alagoas (UFAL), Campus Arapiraca.*
+
+- **Tecnologias e Cursos Complementares:**  
+  - **Linguagens:** Dart, TypeScript, JavaScript, Java  
+  - **Frameworks e Bibliotecas:** Flutter, React, Next.js, Electron, Express, Node.js, Spring Boot, Docker  
+  - **Desenvolvimento Web:** HTML, CSS3, TailwindCSS  
+  - **Bancos de Dados:** Oracle, PostgreSQL  
+  - **Testes e Boas Práticas:** Testes automatizados, Clean Code, Arquitetura & Metodologias Ágeis
+
+*Cursos Complementares:*  
+- Fullstack Spring Boot + ReactJS  
+- SQL & Bancos de Dados  
+- Desenvolvimento Web (HTML, CSS, JS)  
+- AWS  
+- Java/Python
 
 ---
 
