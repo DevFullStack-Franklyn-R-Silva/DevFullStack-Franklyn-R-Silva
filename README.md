@@ -83,36 +83,46 @@
 
 ## 💼 Minha Trajetória Profissional
 
-- **Administrador LoopVet:**  
-  *Sistema para clínica veterinária que realiza atendimentos, emite receitas, agenda vacinas e gerencia as finanças, atendendo desde clínicas até hospitais veterinários. Atualmente, sou responsável pela gestão operacional do sistema, garantindo que todas as funcionalidades estejam alinhadas com as necessidades do setor, embora não tenha sido o desenvolvedor original.*  
-  <!-- A descrição acima reflete a atuação gerencial e operacional no sistema LoopVet -->
+### 🛠️ Administrador LoopVet - Coagro  
+**Período:** jul de 2024 - o momento  
+**Local:** Arapiraca, AL, Brasil (Presencial)  
+**Responsabilidades:**
+- 🩺 Gerência o sistema para clínica veterinária que realiza atendimentos, emite receitas, agenda vacinas e gerencia as finanças, atendendo desde clínicas até hospitais.
+- 🔧 Responsável pela gestão operacional, garantindo que as funcionalidades estejam alinhadas às necessidades do setor (não sendo o desenvolvedor original).
 
-- **Atualmente:** Desenvolvedor FullStack.
-- **Projetos Impactantes:**
-  - **Soluções Logísticas:** Sistemas para endereçamento logístico e impressão de etiquetas/gôndolas utilizando Flutter.
-  - **E-commerce:** Plataformas de consulta de preços e carrinho de compras, desenvolvidas em Flutter.
-  - **APIs e Integrações:** Manutenção e criação de rotas em APIs REST com Node.js/TypeScript.
-  - **Aplicativos Corporativos e de Consumo:** Soluções com Flutter, React e Electron.
-  - **Automação de Processos:** Envio automático de arquivos para o Dropbox via FTP.
+### 💻 Desenvolvedor FullStack
+- Desenvolvimento de soluções logísticas, e-commerce, APIs e integrações (Node.js/TypeScript, Flutter, React, Electron, etc.).
+- Automação de processos, incluindo envio automático de arquivos para o Dropbox via FTP.
 
 ---
 
 ## 🚀 Projetos Relevantes
 
-<!-- Adicione aqui os links e descrições dos seus principais projetos -->
-- **[Projeto Gerador de QR Code](https://github.com/DevFullStack-Franklyn-R-Silva/Gerador-de-QRCode-com-ReactJS)**
-  *O gerador de QR Code permite que o usuário insira um texto ou URL, e gere um código QR correspondente. O código gerado pode ser salvo como um arquivo PNG, permitindo que o usuário o compartilhe ou o utilize como desejar. (React.js, Html, Css, JS)*
-- **[Projeto Gerador de sombra de caixa (box-shadow)](https://github.com/DevFullStack-Franklyn-R-Silva/Gerador-de-box-shadow-com-JavaScript)**
-  *Projeto utilitário para criar box shadow com auxílio gráfico, permitindo visualizar a regra gerada de forma simples. (Html, Css, JS)*    
+- **[Projeto Gerador de QR Code](https://github.com/DevFullStack-Franklyn-R-Silva/Gerador-de-QRCode-com-ReactJS)**  
+  *Gera QR Code a partir de texto ou URL, permitindo salvar o código como PNG.*  
+  *(React.js, HTML, CSS, JS)*
+
+- **[Projeto Gerador de Sombra de Caixa (box-shadow)](https://github.com/DevFullStack-Franklyn-R-Silva/Gerador-de-box-shadow-com-JavaScript)**  
+  *Utilitário para criação visual de box-shadow com auxílio gráfico.*  
+  *(HTML, CSS, JS)*
+
+---
+
+## 🚀 Projetos Futuros
+
+- **Integração LoopVet com Siagri ERP:**  
+  Projeto para integrar a emissão de Nota Fiscal de Serviço da LoopVet com o Siagri ERP, otimizando processos e facilitando a gestão financeira.
+
+- **Sistema Web Local de Gestão de Comissão:**  
+  Desenvolvimento de uma solução web para gerenciamento de comissões, focada em ambientes locais.
 
 ---
 
 ## 🧩 Experiência Profissional Detalhada
 
-<!-- Experiência 1: Analista de Sistema na Coagro -->
 ### 🛠️ Analista de Sistema - Coagro
-**Período:** Atualmente
-**Local:** Arapiraca, Alagoas, Brasil (Presencial)  
+**Período:** Atualmente  
+**Local:** Arapiraca, AL, Brasil (Presencial)  
 **Responsabilidades:**
 - 📧 Desenvolvimento de envio de e-mails automáticos com Node.ts, React.ts e Electron.ts.
 - 📱 Desenvolvimento e manutenção de aplicativos móveis utilizando Flutter.
@@ -122,52 +132,52 @@
 - 🚚 Desenvolvimento de soluções para logística, incluindo endereçamento logístico e impressão de etiquetas/gôndolas (Flutter).
 - 🛒 Implementação de sistemas de consulta de preços e carrinho de compras em Flutter.
 - 🩺 Gerência o sistema para clínica veterinária que realiza atendimentos, emite receitas, agenda vacinas e gerencia as finanças, atendendo desde clínicas até hospitais.
-- 🔧 Responsável pela gestão operacional, garantindo que as funcionalidades estejam alinhadas às necessidades do setor (não sendo o desenvolvedor original). 
+- 🔧 Responsável pela gestão operacional, garantindo que as funcionalidades estejam alinhadas às necessidades do setor.
+  
 **Competências:** Flutter · Dart · TypeScript · Node.js · Banco de dados Oracle
 
-<!-- Experiência 2: Desenvolvedor de Software na PlusSoft -->
 ### 💻 Desenvolvedor de Software - PlusSoft
 **Período:** jul de 2023 - dez de 2023 (6 meses)  
-**Local:** Arapiraca, Alagoas, Brasil (Presencial)  
+**Local:** Arapiraca, AL, Brasil (Presencial)  
 **Responsabilidades:**
-- 🖥️ Desenvolvimento de aplicativos desktop utilizando Electron, com foco em automação de processos e envio automático de arquivos para o Dropbox via FTP.
+- 🖥️ Desenvolvimento de aplicativos desktop com Electron, focando em automação e envio automático para o Dropbox via FTP.
 - 🔄 Manutenção e criação de rotas em APIs com Node.js/TypeScript (REST).
-- 📝 Análise de requisitos e implementação de soluções inovadoras para otimização de sistemas.
+- 📝 Análise de requisitos e implementação de soluções inovadoras.
 - ✅ Aplicação de boas práticas de programação (clean code, orientação a objetos).
 - 🌐 Desenvolvimento com JavaScript, HTML, CSS e frameworks modernos.
-- 🗃️ Gerenciamento de bancos de dados como Oracle, SQL Server e MySQL.  
+- 🗃️ Gerenciamento de bancos de dados Oracle, SQL Server e MySQL.
+  
 **Competências:** Node.js · Electron.js · Desenvolvimento de software · React Native · GitHub · Banco de dados SQL
 
-<!-- Experiência 3: Analista de Sistema na Open Consult -->
 ### 🔒 Analista de Sistema - Open Consult
 **Período:** jun de 2023 - jul de 2023 (2 meses)  
 **Local:** Rio de Janeiro, Brasil (Remota)  
 **Responsabilidades:**
 - 🔍 Análise de logs XML para identificação e resolução de problemas no sistema IAM.
 - 👥 Gerenciamento do ciclo de vida de usuários e acessos com Identity Manager (IDM).
-- 📊 Criação e implementação de políticas, fluxos e relatórios de IAM para segurança e conformidade.  
+- 📊 Criação e implementação de políticas, fluxos e relatórios de IAM para segurança e conformidade.
+  
 **Competências:** Apache Tomcat
 
-<!-- Experiência 4: Monitor de Programação Orientada a Objetos na UFAL -->
 ### 🎓 Monitor de Programação Orientada a Objetos - Universidade Federal de Alagoas
 **Período:** set de 2022 - fev de 2023 (6 meses)  
-**Local:** Arapiraca, Alagoas, Brasil (Híbrida)  
+**Local:** Arapiraca, AL, Brasil (Híbrida)  
 **Responsabilidades:**
 - 👨‍🏫 Monitor voluntário de POO em Ciência da Computação.
-- 🤝 Auxílio aos alunos em conceitos e práticas de POO em projetos web.
+- 🤝 Auxílio aos alunos em conceitos e práticas de POO.
 - 🖥️ Uso de Spring MVC, Spring Framework e Java para desenvolvimento web.
-- 💬 Desenvolvimento de habilidades em comunicação, liderança e trabalho em equipe.  
+- 💬 Desenvolvimento de habilidades em comunicação, liderança e trabalho em equipe.
+  
 **Competências:** Java · POO · Spring MVC · Spring Framework · JavaScript
-
 
 ---
 
 ## 🎓 Certificações & Cursos
 
-- **Bacharelado em Ciência da Computação** - Universidade Federal de Alagoas (UFAL), Campus Arapiraca.  
-- **Experiência Profissional com Tecnologias:** Flutter, Oracle, Node.js, Electron, React, TypeScript, JavaScript, HTML, CSS, Spring Boot, Git, Github.  
-- **Cursos Complementares:** Fullstack Spring Boot + ReactJS, SQL & Bancos de Dados, Desenvolvimento Web (HTML, CSS, JS), AWS, Java/Python, Arquitetura & Metodologias Ágeis.
-  
+- **Bacharelado em Ciência da Computação** - UFAL, Campus Arapiraca.  
+- **Tecnologias:** Flutter, Oracle, Node.js, Electron, React, TypeScript, JavaScript, HTML, CSS, Spring Boot, Git, GitHub.  
+- **Cursos Complementares:** Fullstack Spring Boot + ReactJS, SQL & Bancos de Dados, Desenvolvimento Web, AWS, Java/Python, Arquitetura & Metodologias Ágeis.
+
 ---
 
 ## 📊 Meu Status
