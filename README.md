@@ -81,21 +81,6 @@
 
 ---
 
-## 💼 Minha Trajetória Profissional
-
-### 🛠️ Administrador LoopVet - Coagro  
-**Período:** jul de 2024 - o momento  
-**Local:** Arapiraca, AL, Brasil (Presencial)  
-**Responsabilidades:**
-- 🩺 Gerência o sistema para clínica veterinária que realiza atendimentos, emite receitas, agenda vacinas e gerencia as finanças, atendendo desde clínicas até hospitais.
-- 🔧 Responsável pela gestão operacional, garantindo que as funcionalidades estejam alinhadas às necessidades do setor (não sendo o desenvolvedor original).
-
-### 💻 Desenvolvedor FullStack
-- Desenvolvimento de soluções logísticas, e-commerce, APIs e integrações (Node.js/TypeScript, Flutter, React, Electron, etc.).
-- Automação de processos, incluindo envio automático de arquivos para o Dropbox via FTP.
-
----
-
 ## 📽️ Projetos Relevantes
 
 - **[Projeto Gerador de QR Code](https://github.com/DevFullStack-Franklyn-R-Silva/Gerador-de-QRCode-com-ReactJS)**  
