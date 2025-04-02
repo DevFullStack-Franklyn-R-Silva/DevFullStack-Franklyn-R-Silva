@@ -1,6 +1,6 @@
 # <img align="center" src="https://raw.githubusercontent.com/DevFullStack-Franklyn-R-Silva/DevFullStack-Franklyn-R-Silva/master/welcome.gif" width="80px"> Olá! Eu sou Franklyn Roberto, um desenvolvedor full stack apaixonado pelo que faço! 
   
-<!-- GIF de Boas-vindas -->
+<!-- GIF de Boas-vindas --> 
 <p align="center">   
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="500" alt="GIF de boas-vindas"/>
 </p>
