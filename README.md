@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="500" alt="GIF de boas-vindas"/>
 </p>
  
-<!-- Efeito de texto dinâmico -->
+<!-- Efeito de texto dinâmico --> 
 <h4 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Bem-vindo!;Entusiasta+de+código+aberto;Prazer+em+te+conhecer...&center=true" alt="Typing Effect"/>
   <br>
