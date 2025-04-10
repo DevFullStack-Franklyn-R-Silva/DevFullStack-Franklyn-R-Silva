@@ -52,9 +52,7 @@
 - **Filosofia:** Acredito que o aprendizado contínuo e o trabalho em equipe são essenciais para o crescimento pessoal e profissional.
 - **Objetivos:** Sempre em busca de novos desafios e tecnologias emergentes para transformar ideias em soluções impactantes.
 
-<div align="center">
-  <a href="https://github.com/DevFullStack-Franklyn-R-Silva">Acesse meu GitHub</a>
-</div>
+
 
 ---
 
