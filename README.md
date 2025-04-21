@@ -9,7 +9,7 @@
 <h4 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Bem-vindo!;Entusiasta+de+código+aberto;Prazer+em+te+conhecer...&center=true" alt="Typing Effect"/>
   <br>
-  <!-- Bloco de Redes Sociais -->
+  <!-- Bloco de Redes Sociais --> 
   <div>
     <a href="https://api.whatsapp.com/send?phone=82999915558" target="_blank">
       <img src="https://img.shields.io/badge/Whatsapp-1FA413?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp"/>
