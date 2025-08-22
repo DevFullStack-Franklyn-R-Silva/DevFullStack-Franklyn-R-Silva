@@ -208,6 +208,6 @@
 <div align="center">
   <h4>
     <img align="center" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv" width="200" height="200" alt="GIF animado"/>
-    Total hits on my git: <img align="center" src="https://profile-counter.glitch.me/hadesfranklyn/count.svg" alt="Contador de visitas"/>
+    Total hits on my git: <img align="center" src="https://profile-counter.glitch.me/DevFullStack-Franklyn-R-Silva/count.svg" alt="Contador de visitas"/>
   </h4>
 </div>
