@@ -113,8 +113,11 @@
 - 🔧 Desenvolvimento e manutenção de APIs em Node.js e Java com Spring Boot.
 - 🗄️ Otimização e manutenção de banco de dados Oracle.
 - 🚚 Desenvolvimento de soluções para logística, incluindo endereçamento logístico e impressão de etiquetas/gôndolas (Flutter).
+- 🍃 Responsável pelo desenvolvimento do sistema de emissão de receitas agronômicas em Flutter, aumentando a eficiência e automatizando processos antes manuais.
+- 🛠️ Analista de Sistemas dos ERPs Winthor e Siagri, realizando parametrizações, integrações e suporte avançado.
 - 🛒 Implementação de sistemas de consulta de preços e carrinho de compras em Flutter.
-- 🩺 Gerência o sistema para clínica veterinária que realiza atendimentos, emite receitas, agenda vacinas e gerencia as finanças, atendendo desde clínicas até hospitais.
+- 🩺 Gestão do sistema LoopVet para clínicas veterinárias: atendimentos, emissão de receitas, agendamento de vacinas e gestão financeira.
+- 🛒 Gestão do sistema MaxPedido (força de vendas), garantindo a integração e funcionamento das operações comerciais.
 - 🔧 Responsável pela gestão operacional, garantindo que as funcionalidades estejam alinhadas às necessidades do setor.
   
 **Competências:** Flutter · Dart · TypeScript · Node.js · Banco de dados Oracle
