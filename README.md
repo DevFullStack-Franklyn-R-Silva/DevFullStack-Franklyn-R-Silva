@@ -73,7 +73,7 @@
 
 <p align="left">
   <a href="https://github.com/DevFullStack-Franklyn-R-Silva">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,spring,androidstudio,postman,github,git,mongodb,mysql,ts,js,html,css,tailwindcss,express,nextjs,electron,bootstrap,react,nodejs,java,docker,postgresql,dart,flutter,jest,oracle" alt="Skill Icons"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,spring,androidstudio,postman,github,git,mongodb,mysql,ts,js,html,css,tailwindcss,express,nextjs,electron,bootstrap,react,nodejs,java,docker,postgresql,dart,flutter,jest,oracle,supabase" alt="Skill Icons"/>
   </a>
 </p>
 
