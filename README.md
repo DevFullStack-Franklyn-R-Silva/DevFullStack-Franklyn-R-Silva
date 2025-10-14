@@ -43,7 +43,10 @@
     </a>
   </div>
 </h4>
-
+<div align="center">
+  <img src="https://counter.kuber.studio/DevFullStack-Franklyn-R-Silva/hacker/count.svg" alt="Profile views" />
+</div>
+  
 ---
 
 ## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35"/> Sobre Mim
